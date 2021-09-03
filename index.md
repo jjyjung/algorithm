@@ -22,7 +22,7 @@
 * [Python basic1, basic2](https://github.com/jjyjung/python)
 
 * 기타 자료
-** [Kaggle Learn - Python](https://www.kaggle.com/learn/python)
-** Python 스타일("Pythonic~")
-*** [PEP 8](https://www.python.org/dev/peps/pep-0008/)
-*** [Pythonic은 무엇인가? (PEP 8 정리)](https://codechacha.com/ko/pythonic-and-pep8/)
+ * [Kaggle Learn - Python](https://www.kaggle.com/learn/python)
+ * Python 스타일("Pythonic~")
+  * [PEP 8](https://www.python.org/dev/peps/pep-0008/)
+  * [Pythonic은 무엇인가? (PEP 8 정리)](https://codechacha.com/ko/pythonic-and-pep8/)
