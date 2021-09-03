@@ -9,14 +9,13 @@
 2. [강의질문지 Spreadsheet](https://docs.google.com/spreadsheets/d/1V7jakZjPTKyLyQIzT8Re8GIwJVlU-Qks4fhPR3VhbVI)
 
 
-### Python 연습 사이트
-
-* [Python Github](https://jjyjung.github.io/python/)
-
-
 ### 강의노트
 
 #### 9/3(월)
+
+* ___강의목표___
+  - 클라우드 코딩 환경인 Google Colab을 사용하는 방법을 배우고
+
 * [Google Colab 사용법](https://docs.google.com/document/d/1dNI-H5wLt23CE1kA0C7XHus5Z04WcYLFdqRtiKh4sfQ/edit)
 
 * [Python basic1, basic2](https://github.com/jjyjung/python)
