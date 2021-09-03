@@ -14,5 +14,5 @@
 
 ### 강의노트
 
-##### 9/3(월)[Google Colab](https://docs.google.com/document/d/1dNI-H5wLt23CE1kA0C7XHus5Z04WcYLFdqRtiKh4sfQ/edit)
+##### 9/3(월) [Google Colab 사용법](https://docs.google.com/document/d/1dNI-H5wLt23CE1kA0C7XHus5Z04WcYLFdqRtiKh4sfQ/edit)
 
