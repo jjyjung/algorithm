@@ -1,4 +1,4 @@
-## 2021 KHU Algorithm
+## Algorithm
 
 ### 강의메모 및 질문지
 
