@@ -16,8 +16,9 @@
 
 ### 강의노트
 
-##### 9/3(월)
+#### 9/3(월)
 * [Google Colab 사용법](https://docs.google.com/document/d/1dNI-H5wLt23CE1kA0C7XHus5Z04WcYLFdqRtiKh4sfQ/edit)
-* [Python basic1, basic2](https://github.com/jjyjung/python)
-* [Kaggle Learn - Python](https://www.kaggle.com/learn/python)
 
+* [Python basic1, basic2](https://github.com/jjyjung/python)
+
+* [Kaggle Learn - Python](https://www.kaggle.com/learn/python)
