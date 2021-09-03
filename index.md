@@ -8,13 +8,16 @@
 
 2. [강의질문지 Spreadsheet](https://docs.google.com/spreadsheets/d/1V7jakZjPTKyLyQIzT8Re8GIwJVlU-Qks4fhPR3VhbVI)
 
+
 ### Python 연습 사이트
 
-[Python Github](https://jjyjung.github.io/python/)
+* [Python Github](https://jjyjung.github.io/python/)
+
 
 ### 강의노트
 
 ##### 9/3(월)
 * [Google Colab 사용법](https://docs.google.com/document/d/1dNI-H5wLt23CE1kA0C7XHus5Z04WcYLFdqRtiKh4sfQ/edit)
-* [python_basic1.ipynb] 
+* [Python basic1, basic2](https://github.com/jjyjung/python)
+* [Kaggle Learn - Python](https://www.kaggle.com/learn/python)
 
