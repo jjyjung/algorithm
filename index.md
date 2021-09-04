@@ -9,14 +9,14 @@
 2. [강의질문지 Spreadsheet](https://docs.google.com/spreadsheets/d/1V7jakZjPTKyLyQIzT8Re8GIwJVlU-Qks4fhPR3VhbVI)
 
 
-### 9/1(수) - 알고리즘 개요(1)
+### 9/1(수) - 강의 소개
 
 * ___강의목표___ : 강의 계획을 소개하고, 산업경영공학 전공에서 알고리즘 응용 분야를 살펴본다.
 
 * [강의계획서](https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2021&p_term=20&p_teach=027799&p_code=IE31800&p_subjt=IE318&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1630762842311)
 
 
-### 9/6(월) - 알고리즘 개요(2)
+### 9/6(월) - 알고리즘 개요
 
 * ___강의목표___ : 알고리즘의 개념과 필요성을 이해하고, 유사코드(pseudo-code)의 예시를 살펴본다.
 
