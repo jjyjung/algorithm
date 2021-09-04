@@ -11,19 +11,21 @@
 
 ### 9/1(수) - 알고리즘 개요(1)
 
+* ___강의목표___ : 이번 학기의 강의 운영 계획을 소개하고, 산업경영공학도서 알고리즘 학습의 필요성에 대하여 소개한다.
+
 * [강의계획서](https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2021&p_term=20&p_teach=027799&p_code=IE31800&p_subjt=IE318&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1630762842311)
 
 
 ### 9/6(월) - 알고리즘 개요(2)
 
-* __강의목표__ : 알고리즘의 개념과 필요성을 이해하고, 유사코드(pseudo-code)의 예시를 살펴본다.
+* ___강의목표___ : 알고리즘의 개념과 필요성을 이해하고, 유사코드(pseudo-code)의 예시를 살펴본다.
 
 * Ch.1 - 알고리즘 개요 및 복잡도 분석
 
 
 ### 9/8(수) - 프로그래밍 점검(1)
 
-* __강의목표__ : 클라우드 코딩 환경인 Google Colab을 사용하는 방법을 배우고, Colab에서 Python 기초코드를 학습한다.
+* ___강의목표___ : 클라우드 코딩 환경인 Google Colab을 사용하는 방법을 배우고, Colab에서 Python 기초코드를 학습한다.
 
 * [Google Colab 사용법](https://docs.google.com/document/d/1dNI-H5wLt23CE1kA0C7XHus5Z04WcYLFdqRtiKh4sfQ/edit) : 설치 및 사용법을 익힌다.
 
