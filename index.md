@@ -14,7 +14,7 @@
 
 * ___강의목표___ : 강의 계획을 소개하고, 산업경영공학 전공에서 알고리즘 응용 분야를 살펴본다.
 
-* [강의계획서](https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2021&p_term=20&p_teach=027799&p_code=IE31800&p_subjt=IE318&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1630762842311)
+* [2021 산업경영알고리즘 강의계획서](https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2021&p_term=20&p_teach=027799&p_code=IE31800&p_subjt=IE318&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1630762842311)
 
 
 
