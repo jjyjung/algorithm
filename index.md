@@ -16,14 +16,13 @@
 
 ### 9/6(월) - 알고리즘 개요(2)
 
-* ___강의목표___ : 알고리즘의 개념과 필요성을 이해하고, 유사코드(pseudo-code)의 예시를 살펴본다.
+* __강의목표__ : 알고리즘의 개념과 필요성을 이해하고, 유사코드(pseudo-code)의 예시를 살펴본다.
 
-* Ch.1 - 알고리즘 개요 및 복잡도 분석![image](https://user-images.githubusercontent.com/37542595/132101033-d6a9f1e1-4946-40be-b564-45f40cb1f044.png)
+* Ch.1 - 알고리즘 개요 및 복잡도 분석
 
+### 9/8(수) - 프로그래밍 점검(1)
 
-#### 9/8(수)
-
-* ___강의목표___ : 클라우드 코딩 환경인 Google Colab을 사용하는 방법을 배우고, Colab에서 Python 기초코드를 학습한다.
+* __강의목표__ : 클라우드 코딩 환경인 Google Colab을 사용하는 방법을 배우고, Colab에서 Python 기초코드를 학습한다.
 
 * [Google Colab 사용법](https://docs.google.com/document/d/1dNI-H5wLt23CE1kA0C7XHus5Z04WcYLFdqRtiKh4sfQ/edit) : 설치 및 사용법을 익힌다.
 
@@ -31,21 +30,33 @@
 
 * [w3schools.com - Python](https://www.w3schools.com/python/) : Python 기초 문법을 살펴보고, 각자 모르는 부분들은 추후 자습한다.
 
-#### 9/14(월)
+### 9/13(월) - 프로그래밍 점검(1)
 
-* ___강의목표___
-  - 1장의 유사코드를 Python으로 .
+* __강의목표__ : 1장의 유사코드를 Python으로 .
+
+* App.1 - 알고리즘 표현 방식 및 Python 자료 구조
 
 * python_basic1.ipynb : 기초 문법(1)을 함께 학습한다.
 
 * 1장의 유사코드를 Colab에서 직접 Python으로 구현해본다.
 
-#### 9/16(수)
+### 9/15(수) - 프로그래밍 점검(2)
 
-* ___강의목표___
-  - 1장의 유사코드를 Python으로 .
+* __강의목표__ : 1장의 유사코드를 Python으로 .
 
 * python_basic2.ipynb : 기초 문법(2)를 함께 학습한다.
+
+### 9/20(월) - 휴강
+
+* 추석 전날로 강의는 쉽니다. 추석명절 즐겁게 보내세요. 
+
+### 9/22(수) - 녹화 강의
+
+* 추석 다음 날은 녹화 강의 예정입니다. e-campus.khu.ac.kr에서 확인 바랍니다.
+
+### 9/22(수) - Sorting	
+
+* 정렬(Sorting) 알고리즘 및 실습	
 
 ### 기타 자료
 * [w3schools.com - Python](https://www.w3schools.com/python/)
