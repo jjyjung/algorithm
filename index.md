@@ -2,7 +2,7 @@
 
 ### 강의메모 및 질문지
 
-실시간 강의 시에는 zoom 접속 후 아래 두 문서로도 들어오세요. (경희대 이메일로 Google 로그인이 필요함!)
+실시간 강의 시에는 zoom 접속 후 아래 두 문서로도 들어오세요. (경희대 이메일로 Google 로그인 필요)
 
 1. [실시간 강의메모 Google Doc](https://docs.google.com/document/d/1W5Xdrc8U26Q6rryIAS_o5lQIotwaeok0myewZpaVfqk)
 
@@ -20,6 +20,7 @@
 
 * Ch.1 - 알고리즘 개요 및 복잡도 분석
 
+
 ### 9/8(수) - 프로그래밍 점검(1)
 
 * __강의목표__ : 클라우드 코딩 환경인 Google Colab을 사용하는 방법을 배우고, Colab에서 Python 기초코드를 학습한다.
@@ -29,6 +30,7 @@
 * [Python basic1, basic2](https://github.com/jjyjung/python) : GitHub의 예제 코드를 업로드해본다.
 
 * [w3schools.com - Python](https://www.w3schools.com/python/) : Python 기초 문법을 살펴보고, 각자 모르는 부분들은 추후 자습한다.
+
 
 ### 9/13(월) - 프로그래밍 점검(1)
 
@@ -40,27 +42,34 @@
 
 * 1장의 유사코드를 Colab에서 직접 Python으로 구현해본다.
 
+
 ### 9/15(수) - 프로그래밍 점검(2)
 
 * __강의목표__ : 1장의 유사코드를 Python으로 .
 
 * python_basic2.ipynb : 기초 문법(2)를 함께 학습한다.
 
+
 ### 9/20(월) - 휴강
 
 * 추석 전날로 강의는 쉽니다. 추석명절 즐겁게 보내세요. 
+
 
 ### 9/22(수) - 녹화 강의
 
 * 추석 다음 날은 녹화 강의 예정입니다. e-campus.khu.ac.kr에서 확인 바랍니다.
 
+
 ### 9/22(수) - Sorting	
 
 * 정렬(Sorting) 알고리즘 및 실습	
 
+
 ### 기타 자료
 * [w3schools.com - Python](https://www.w3schools.com/python/)
+
 * [Kaggle Learn - Python](https://www.kaggle.com/learn/python/)
+
 * __Pythonic~__ (파이썬스럽게 코드짜는 법)
   - [PEP 8](https://www.python.org/dev/peps/pep-0008/)
   - [Pythonic은 무엇인가? (PEP 8 정리)](https://codechacha.com/ko/pythonic-and-pep8/)
