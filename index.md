@@ -18,7 +18,7 @@
 
 * ___강의목표___ : 알고리즘의 개념과 필요성을 이해하고, 유사코드(pseudo-code)의 예시를 살펴본다.
 
-* Ch.1 - 알고리즘 개요 및 복잡도 분석![image](https://user-images.githubusercontent.com/37542595/132100971-9a141d2f-f47b-45de-8ed8-42843eb2588d.png)
+* Ch.1 - 알고리즘 개요 및 복잡도 분석![image](https://user-images.githubusercontent.com/37542595/132101033-d6a9f1e1-4946-40be-b564-45f40cb1f044.png)
 
 
 #### 9/8(수)
