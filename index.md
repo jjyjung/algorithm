@@ -21,7 +21,7 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요. (경희대 이메일
 
 * ___강의목표___ : 알고리즘의 개념과 필요성을 이해하고, 유사코드(pseudo-code)의 예시를 살펴본다.
 
-* Ch.1 - 알고리즘 개요 및 복잡도 분석
+* [Ch.1 - 알고리즘 개요 및 복잡도 분석](https://drive.google.com/file/d/1CNd6V8yh2cn9Nf6_dz7pBR3usMwbMlAJ/view?usp=sharing)
 
 
 
