@@ -41,7 +41,7 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요. (경희대 이메일
 
 ### 9/29(수) - Sorting(녹화)
 * ___강의목표___ : SelectionSort, BubbleSort, MergeSort 등을 Python으로 함께 구현해봅니다.
-* [자료구조 개요](https://drive.google.com/file/d/13FByx5gMY8_zAdXKdVTqjtys9j5rs6MK)
+* [Source Code](https://github.com/jjyjung/algorithm/blob/gh-pages/ch4.ipynb)
 
 ### 9/27(월) - Sorting(녹화)
 * 녹화 강의 예정입니다. e-campus.khu.ac.kr에서 확인 바랍니다.
