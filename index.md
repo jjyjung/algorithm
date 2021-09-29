@@ -31,21 +31,24 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요. (경희대 이메일
 ### 9/20(월) - 휴강(추석)
 * 추석 전날로 강의는 쉽니다. 추석명절 즐겁게 보내세요. 
 
-### 9/22(수) - Sorting(녹화)
+### 9/22(수) - Sorting [녹화]
 * 추석 다음 날은 녹화 강의 예정입니다. e-campus.khu.ac.kr에서 확인 바랍니다.
 * [Ch.4. 정렬(Sorting)](https://drive.google.com/file/d/1NUUd3WZvNytGbxhUZYSEiQYqTGUkLlSV)
 
-### 9/27(월) - Sorting(녹화)
+### 9/27(월) - Sorting [녹화]
 * 녹화 강의 예정입니다. e-campus.khu.ac.kr에서 확인 바랍니다.
 * [자료구조 개요](https://drive.google.com/file/d/13FByx5gMY8_zAdXKdVTqjtys9j5rs6MK)
 
-### 9/29(수) - Sorting(녹화)
+### 9/29(수) - Sorting의 Python 구현 [실시간]
 * ___강의목표___ : SelectionSort, BubbleSort, MergeSort 등을 Python으로 함께 구현해봅니다.
 * [Source Code](https://github.com/jjyjung/algorithm/blob/gh-pages/ch4.ipynb)
 
-### 9/27(월) - Sorting(녹화)
+### 10/4(월) - Sorting의 Python 구현 [녹화]
 * 녹화 강의 예정입니다. e-campus.khu.ac.kr에서 확인 바랍니다.
-* [자료구조 개요](https://drive.google.com/file/d/13FByx5gMY8_zAdXKdVTqjtys9j5rs6MK)
+* ___강의목표___ : InsertionSort, QuickSort, HeapSort 등을 Python으로 함께 구현해봅니다.
+
+### 10/6(수) - Search Tree [실시간]
+* ___강의목표___ : 검색트리(Search Tree)의 개념을 이해합니다.
 
 ### Supplementary Materials
 * [w3schools.com - Python](https://www.w3schools.com/python/)
