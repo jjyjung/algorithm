@@ -35,15 +35,17 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요. (경희대 이메일
 * 추석 다음 날은 녹화 강의 예정입니다. e-campus.khu.ac.kr에서 확인 바랍니다.
 * [Ch.4. 정렬(Sorting)](https://drive.google.com/file/d/1NUUd3WZvNytGbxhUZYSEiQYqTGUkLlSV)
 
-### 9/27(월) - Sorting [녹화]
+### 9/27(월) - Data Structure - Python [녹화]
 * 녹화 강의 예정입니다. e-campus.khu.ac.kr에서 확인 바랍니다.
-* [자료구조 개요](https://drive.google.com/file/d/13FByx5gMY8_zAdXKdVTqjtys9j5rs6MK)
+* [Source Code - Ch.1](https://github.com/jjyjung/algorithm/blob/gh-pages/ch1.ipynb)
+* [Intro to Data Structure](https://drive.google.com/file/d/13FByx5gMY8_zAdXKdVTqjtys9j5rs6MK)
+* [Source Code - Data Structure](https://github.com/jjyjung/algorithm/blob/gh-pages/data_structure.ipynb)
 
-### 9/29(수) - Sorting의 Python 구현 [실시간]
+### 9/29(수) - Sorting - Python [실시간]
 * ___강의목표___ : SelectionSort, BubbleSort, MergeSort 등을 Python으로 함께 구현해봅니다.
-* [Source Code](https://github.com/jjyjung/algorithm/blob/gh-pages/ch4.ipynb)
+* [Source Code - Ch.4](https://github.com/jjyjung/algorithm/blob/gh-pages/ch4.ipynb)
 
-### 10/4(월) - Sorting의 Python 구현 [녹화]
+### 10/4(월) - Sorting - Python 구현 [녹화]
 * 녹화 강의 예정입니다. e-campus.khu.ac.kr에서 확인 바랍니다.
 * ___강의목표___ : InsertionSort, QuickSort, HeapSort 등을 Python으로 함께 구현해봅니다.
 
