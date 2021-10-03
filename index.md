@@ -41,15 +41,18 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요. (경희대 이메일
 * [Intro to Data Structure](https://drive.google.com/file/d/13FByx5gMY8_zAdXKdVTqjtys9j5rs6MK)
 * [Source code - Data structure](https://github.com/jjyjung/algorithm/blob/gh-pages/data_structure.ipynb)
 
-### 9/29(수) - Sorting - Python [실시간]
+### 9/29(수) - Sorting - Python [zoom]
 * ___강의목표___ : SelectionSort, BubbleSort, MergeSort 등을 Python으로 함께 구현해봅니다.
 * [Source code - Ch.4](https://github.com/jjyjung/algorithm/blob/gh-pages/ch4.ipynb)
 
 ### 10/4(월) - Sorting - Python 구현 [녹화]
 * 녹화 강의 예정입니다. e-campus.khu.ac.kr에서 확인 바랍니다.
+* ___강의목표___ : HeapSort, RadixSort, CountingSort를 설명합니다.
+
+### 10/6(수) - Sorting - Python 구현 [zoom]
 * ___강의목표___ : InsertionSort, QuickSort, HeapSort 등을 Python으로 함께 구현해봅니다.
 
-### 10/6(수) - Search Tree [실시간]
+### 10/11(월) - Search Tree [녹화]
 * ___강의목표___ : 검색트리(Search Tree)의 개념을 이해합니다.
 
 ### Supplementary Materials
