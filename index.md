@@ -7,6 +7,7 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요. (경희대 이메일
 ### 9/1(수) - 강의 소개
 * ___강의목표___ : 강의 계획을 소개하고, 산업경영공학 전공에서 알고리즘 응용 분야를 살펴본다.
 * [2021 산업경영알고리즘 강의계획서](https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2021&p_term=20&p_teach=027799&p_code=IE31800&p_subjt=IE318&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1630762842311)
+* [쉽게 배우는 알고리즘 (문병로 저)](https://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791156643753)
 
 ### 9/6(월) - Intro to Algorithm
 * ___강의목표___ : 알고리즘의 개념과 필요성을 이해하고, 유사코드(pseudo-code)의 예시를 살펴본다.
