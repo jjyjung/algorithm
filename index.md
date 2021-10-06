@@ -49,11 +49,12 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요. (경희대 이메일
 
 ### 10/4(월) - Sorting [녹화]
 * 녹화 강의 예정입니다. e-campus.khu.ac.kr에서 확인 바랍니다.
-* ___강의목표___ : HeapSort, RadixSort, CountingSort를 설명합니다.
+* ___강의목표___ : HeapSort, RadixSort, CountingSort를 설명하고, InsertionSort, QuickSort, HeapSort, CountingSort를 Python으로 함께 구현해봅니다.
 
-### 10/6(수) - Sorting - Python 구현 [zoom]
-* ___강의목표___ : InsertionSort, QuickSort, HeapSort, CountingSort를 Python으로 함께 구현해봅니다.
-
+### 10/6(수) - Search Tree [zoom]
+* ___강의목표___ : 검색트리(Search Tree)의 개념을 이해합니다.
+* [Ch.4. 검색트리(Search Tree)](https://drive.google.com/file/d/1S7d68FXClkE7VlSZPWwZpBJEkXanuQ0u)
+* 
 ### 10/11(월) - Search Tree [녹화]
 * ___강의목표___ : 검색트리(Search Tree)의 개념을 이해합니다.
 
