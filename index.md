@@ -59,6 +59,7 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요. (경희대 이메일
 
 ### 10/13(수) - Dynamic Programming
 * ___강의목표___ : Dynamic Programming 문제를 이해하고 예제를 살펴봅니다.
+* [Ch.8. Dynamic Programming (DP)](https://drive.google.com/file/d/1pK75Iu7suvJQ1wKlH7o-EDl595hahN6V)
 
 ### Supplementary Materials
 * [w3schools.com - Python](https://www.w3schools.com/python/)
