@@ -57,8 +57,8 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요. (경희대 이메일
 ### 10/11(월) - Search Tree [녹화]
 * ___강의목표___ : 검색트리(Search Tree) 중 Red-Black Tree의 개념을 이해합니다.
 
-### 10/13(수) - Search Tree [녹화]
-* ___강의목표___ : 검색트리(Search Tree) 중 B-Tree, KD-Tree의 개념을 이해합니다.
+### 10/13(수) - Dynamic Programming
+* ___강의목표___ : Dynamic Programming 문제를 이해하고 예제를 살펴봅니다.
 
 ### Supplementary Materials
 * [w3schools.com - Python](https://www.w3schools.com/python/)
