@@ -39,9 +39,9 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요. (경희대 이메일
 
 ### 9/27(월) - Data Structure - Python [녹화]
 * 녹화 강의 예정입니다. e-campus.khu.ac.kr에서 확인 바랍니다.
-* [Source code - Ch.1](https://github.com/jjyjung/algorithm/blob/gh-pages/ch1.ipynb)
+* [Python code - Ch.1](https://github.com/jjyjung/algorithm/blob/gh-pages/ch1.ipynb)
 * [Intro to Data Structure](https://drive.google.com/file/d/13FByx5gMY8_zAdXKdVTqjtys9j5rs6MK)
-* [Source code - Data structure](https://github.com/jjyjung/algorithm/blob/gh-pages/data_structure.ipynb)
+* [Python code - Data structure](https://github.com/jjyjung/algorithm/blob/gh-pages/data_structure.ipynb)
 
 ### 9/29(수) - Sorting - Python [zoom]
 * ___강의목표___ : SelectionSort, BubbleSort, MergeSort 등을 Python으로 함께 구현해봅니다.
@@ -50,7 +50,7 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요. (경희대 이메일
 ### 10/4(월) - Sorting [녹화]
 * ___강의목표___ : HeapSort, RadixSort, CountingSort를 설명하고, InsertionSort, QuickSort, HeapSort, CountingSort를 Python으로 함께 구현해봅니다.
 
-### 10/6(수) - Search Tree [zoom]
+### 10/6(수) - Search Tree
 * ___강의목표___ : 검색트리(Search Tree) 중 Binary Search Tree(BST)의 개념을 이해합니다.
 * [검색트리(Search Tree)](https://drive.google.com/file/d/1S7d68FXClkE7VlSZPWwZpBJEkXanuQ0u)
 
@@ -60,6 +60,12 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요. (경희대 이메일
 ### 10/13(수) - Dynamic Programming
 * ___강의목표___ : Dynamic Programming 문제를 이해하고 예제를 살펴봅니다.
 * [동적계획법(Dynamic Programming: DP)](https://drive.google.com/file/d/1pK75Iu7suvJQ1wKlH7o-EDl595hahN6V)
+
+### 10/18(월) - Dynamic Programming [녹화]
+* ___강의목표___ : Dynamic Programming 문제를 이해하고 예제를 살펴봅니다.
+
+### 10/20(수) - Dynamic Programming [zoom]
+* ___강의목표___ : Dynamic Programming 문제를 이해하고 예제를 살펴봅니다.
 
 ### Supplementary Materials
 * [w3schools.com - Python](https://www.w3schools.com/python/)
