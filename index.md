@@ -37,7 +37,7 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요. (경희대 이메일
 * ___강의목표___ : Selection Sort, Bubble Sort, Insertion Sort, Merge Sort, Quick Sort를 설명합니다.
 * [정렬(Sorting)](https://drive.google.com/file/d/1NUUd3WZvNytGbxhUZYSEiQYqTGUkLlSV)
 
-### 9/27(월) - Data Structure - Python [녹화]
+### 9/27(월) - Data Structure [녹화]
 * 녹화 강의 예정입니다. e-campus.khu.ac.kr에서 확인 바랍니다.
 * [Python code - Ch.1](https://github.com/jjyjung/algorithm/blob/gh-pages/ch1.ipynb)
 * [Intro to Data Structure](https://drive.google.com/file/d/13FByx5gMY8_zAdXKdVTqjtys9j5rs6MK)
