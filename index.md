@@ -35,7 +35,7 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요. (경희대 이메일
 ### 9/22(수) - Sorting [녹화]
 * 추석 다음 날은 녹화 강의 예정입니다. e-campus.khu.ac.kr에서 확인 바랍니다.
 * ___강의목표___ : Selection Sort, Bubble Sort, Insertion Sort, Merge Sort, Quick Sort를 설명합니다.
-* [Ch.4. 정렬(Sorting)](https://drive.google.com/file/d/1NUUd3WZvNytGbxhUZYSEiQYqTGUkLlSV)
+* [정렬(Sorting)](https://drive.google.com/file/d/1NUUd3WZvNytGbxhUZYSEiQYqTGUkLlSV)
 
 ### 9/27(월) - Data Structure - Python [녹화]
 * 녹화 강의 예정입니다. e-campus.khu.ac.kr에서 확인 바랍니다.
@@ -45,21 +45,21 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요. (경희대 이메일
 
 ### 9/29(수) - Sorting - Python [zoom]
 * ___강의목표___ : SelectionSort, BubbleSort, MergeSort 등을 Python으로 함께 구현해봅니다.
-* [Source code - Ch.4](https://github.com/jjyjung/algorithm/blob/gh-pages/ch4.ipynb)
+* [Python code - Sorting](https://github.com/jjyjung/algorithm/blob/gh-pages/ch4.ipynb)
 
 ### 10/4(월) - Sorting [녹화]
 * ___강의목표___ : HeapSort, RadixSort, CountingSort를 설명하고, InsertionSort, QuickSort, HeapSort, CountingSort를 Python으로 함께 구현해봅니다.
 
 ### 10/6(수) - Search Tree [zoom]
 * ___강의목표___ : 검색트리(Search Tree) 중 Binary Search Tree(BST)의 개념을 이해합니다.
-* [Ch.4. 검색트리(Search Tree)](https://drive.google.com/file/d/1S7d68FXClkE7VlSZPWwZpBJEkXanuQ0u)
+* [검색트리(Search Tree)](https://drive.google.com/file/d/1S7d68FXClkE7VlSZPWwZpBJEkXanuQ0u)
 
 ### 10/11(월) - Search Tree [녹화]
 * ___강의목표___ : 검색트리(Search Tree) 중 Red-Black Tree의 개념을 이해합니다.
 
 ### 10/13(수) - Dynamic Programming
 * ___강의목표___ : Dynamic Programming 문제를 이해하고 예제를 살펴봅니다.
-* [Ch.8. Dynamic Programming (DP)](https://drive.google.com/file/d/1pK75Iu7suvJQ1wKlH7o-EDl595hahN6V)
+* [동적계획법(Dynamic Programming: DP)](https://drive.google.com/file/d/1pK75Iu7suvJQ1wKlH7o-EDl595hahN6V)
 
 ### Supplementary Materials
 * [w3schools.com - Python](https://www.w3schools.com/python/)
