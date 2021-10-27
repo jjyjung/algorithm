@@ -64,12 +64,15 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요. (경희대 이메일
 ### 10/18(월) - Dynamic Programming [녹화]
 * ___강의목표___ : Dynamic Programming 문제를 이해하고 예제를 살펴봅니다.
 
-### 10/20(수) - Dynamic Programming [zoom]
+### 10/20(수) - Dynamic Programming
 * ___강의목표___ : Dynamic Programming 문제를 이해하고 예제를 살펴봅니다.
 
-### 10/25(월) - Network Algorithm [zoom]
-* ___강의목표___ : Network Algorithm 문제를 이해하고 예제를 살펴봅니다.
-* [Network Algorithm](https://drive.google.com/file/d/1XPWGxJ2svZ5Vca_rv4bBV2QXfmlnLOc9)
+### 10/25(월) - Graph Alg. [zoom]
+* ___강의목표___ : Graph Algorithm 문제를 이해하고 예제를 살펴봅니다.
+* [Graph Algorithm](https://drive.google.com/file/d/1XPWGxJ2svZ5Vca_rv4bBV2QXfmlnLOc9)
+
+### 10/27(수) - Graph Alg. [zoom]
+* ___강의목표___ : Graph Algorithm 문제를 이해하고 예제를 살펴봅니다.
 
 ### Supplementary Materials
 * [w3schools.com - Python](https://www.w3schools.com/python/)
