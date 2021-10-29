@@ -76,7 +76,7 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요. (경희대 이메일
 
 ### 11/1(월) - 중간고사
 
-### 11/3(수) - Graph[녹화]
+### 11/3(수) - Graph[Zoom]
 
 ### Supplementary Materials
 * [w3schools.com - Python](https://www.w3schools.com/python/)
