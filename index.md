@@ -69,7 +69,7 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요. (경희대 이메일
 
 ### 10/25(월) - Graph
 * ___강의목표___ : Graph Algorithm 문제를 이해하고 예제를 살펴봅니다.
-* [Graph Algorithm](https://drive.google.com/file/d/1XPWGxJ2svZ5Vca_rv4bBV2QXfmlnLOc9)
+* [Graph Algorithm(2)](https://drive.google.com/file/d/1yxlp4Lbs8-APuNqTCnzgKICgkS1-pwQx/)
 
 ### 10/27(수) - Graph
 * ___강의목표___ : Graph Algorithm 문제를 이해하고 예제를 살펴봅니다.
