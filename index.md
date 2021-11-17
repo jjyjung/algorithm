@@ -82,10 +82,14 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요. (경희대 이메일
 ### 11/8(월) - 중간고사 풀이[녹화]
 * ___강의목표___ : 중간고사 문제를 유사코드 및 Python으로 작성해봅니다.
 
-### 11/10(수) - Graph in Python[Zoom]
-* ___강의목표___ : Graph Algorithm 예제를 Python으로 작성해봅니다.
+### 11/10(수) - Graph
+### 11/17(수) - Graph
+* ___강의목표___ : Graph Algorithm 문제를 이해하고 예제를 살펴봅니다.
 
-### Supplementary Materials
+### Term Project
+* [Project Guide](https://docs.google.com/document/d/1wAKHfYC1bk1OqCE4G3kWMpoeYqgqHNGR/)
+
+**### Supplementary Materials
 * [w3schools.com - Python](https://www.w3schools.com/python/)
 * [Kaggle Learn - Python](https://www.kaggle.com/learn/python/)
 * __Pythonic~__ (파이썬스럽게 코드짜는 법)
