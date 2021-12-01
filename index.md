@@ -90,6 +90,10 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요. (경희대 이메일
 * ___강의목표___ : State-Space Tree (SST) 문제를 이해하고 예제를 살펴봅니다.
 * [State-Space Tree (SST)](https://drive.google.com/file/d/1e84ohYLcNH58W-BbWaynLIQTCRNUdc-5/)
 
+### 12/1(수) - Search
+* ___강의목표___ : Search 기법을 이해하고 예제를 살펴봅니다.
+* [Search](https://drive.google.com/file/d/1wmuwQz6EcUl9B8ZpKIm0-HGbi8KsMgHg/)
+
 ### Term Project
 * [Project Guide](https://docs.google.com/document/d/1wAKHfYC1bk1OqCE4G3kWMpoeYqgqHNGR/)
 
