@@ -1,4 +1,4 @@
-## Algorithm
+## 2021 Algorithm
 ### 강의메모 및 질문지
 zoom 강의 시에는 아래 두 문서도 오픈하세요. (경희대 이메일로 Google 로그인 필요)
 1. [실시간 강의메모 Google Doc](https://docs.google.com/document/d/1W5Xdrc8U26Q6rryIAS_o5lQIotwaeok0myewZpaVfqk)
