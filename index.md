@@ -1,7 +1,7 @@
 ## Algorithm
 ### 9/1(목) - 강의 소개
 * ___강의목표___ : 강의 계획을 소개하고, 산업경영공학 전공에서 알고리즘 응용 분야를 살펴본다.
-* [2021 산업경영알고리즘 강의계획서](https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2021&p_term=20&p_teach=027799&p_code=IE31800&p_subjt=IE318&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1630762842311)
+* [2022 산업경영알고리즘 강의계획서](https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2022&p_term=20&p_teach=027799&p_code=IE31800&p_subjt=IE318&lang=ko&loginYn=N)
 * [(교재) 쉽게 배우는 알고리즘](https://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791156643753)
 
 ### 9/6(화) - Intro to Algorithm
@@ -14,26 +14,23 @@
 * [Python basic1, basic2](https://github.com/jjyjung/python) : GitHub의 예제 코드를 업로드해본다.
 * [w3schools.com - Python](https://www.w3schools.com/python/) : Python 기초 문법을 살펴보고, 각자 모르는 부분들은 추후 자습한다.
 
-### 9/13(화) - Python Basic(1)
+### 9/13(화) - 휴강(추석)
+
+### 9/15(목) - Python Basic(1)
 * ___강의목표___ : Python 기본 문법을 살펴보고, 1장의 유사코드를 Colab에서 구현해본다.
 * App.1 - 알고리즘 표현 방식 및 Python 자료 구조
 * python_basic1.ipynb : 기본 문법(1)을 함께 학습한다.
 * 1장의 유사코드를 Colab에서 직접 Python으로 구현해본다.
 
-### 9/15(목) - Python Basic(2)
+### 9/20(화) - Python Basic(2)
 * ___강의목표___ : Python 기본 문법을 살펴보고, 자료구조를 Colab에서 구현해본다.
-* python_basic2.ipynb : 기초 문법(2)를 함께 학습한다.
+* python_basic2.ipynb : 기초 문법(2)를 함께 학습한다. 
 
-### 9/20(화) - 휴강(추석)
-* 추석 전날로 강의는 쉽니다. 추석명절 즐겁게 보내세요. 
-
-### 9/22(목) - Sorting[녹화]
-* 추석 다음 날은 녹화 강의 예정입니다. e-campus.khu.ac.kr에서 확인 바랍니다.
+### 9/22(목) - Sorting
 * ___강의목표___ : Selection Sort, Bubble Sort, Insertion Sort, Merge Sort, Quick Sort를 설명합니다.
 * [정렬(Sorting)](https://drive.google.com/file/d/1NUUd3WZvNytGbxhUZYSEiQYqTGUkLlSV)
 
-### 9/27(화) - Data Structure[녹화]
-* 녹화 강의 예정입니다. e-campus.khu.ac.kr에서 확인 바랍니다.
+### 9/27(화) - Data Structure
 * [Python code - Ch.1](https://github.com/jjyjung/algorithm/blob/gh-pages/ch1.ipynb)
 * [Intro to Data Structure](https://drive.google.com/file/d/13FByx5gMY8_zAdXKdVTqjtys9j5rs6MK)
 * [Python code - Data structure](https://github.com/jjyjung/algorithm/blob/gh-pages/data_structure.ipynb)
@@ -42,39 +39,39 @@
 * ___강의목표___ : SelectionSort, BubbleSort, MergeSort 등을 Python으로 함께 구현해봅니다.
 * [Python code - Sorting](https://github.com/jjyjung/algorithm/blob/gh-pages/ch4.ipynb)
 
-### 10/4(화) - Sorting[녹화]
+### 10/4(화) - Sorting
 * ___강의목표___ : HeapSort, RadixSort, CountingSort를 설명하고, InsertionSort, QuickSort, HeapSort, CountingSort를 Python으로 함께 구현해봅니다.
 
 ### 10/6(목) - Search Tree
 * ___강의목표___ : 검색트리(Search Tree) 중 Binary Search Tree(BST)의 개념을 이해합니다.
 * [검색트리(Search Tree)](https://drive.google.com/file/d/1S7d68FXClkE7VlSZPWwZpBJEkXanuQ0u)
 
-### 10/11(화) - Search Tree[녹화]
+### 10/11(화) - Search Tree
 * ___강의목표___ : 검색트리(Search Tree) 중 Red-Black Tree의 개념을 이해합니다.
 
 ### 10/13(목) - DP
 * ___강의목표___ : Dynamic Programming 문제를 이해하고 예제를 살펴봅니다.
 * [동적계획법(Dynamic Programming: DP)](https://drive.google.com/file/d/1pK75Iu7suvJQ1wKlH7o-EDl595hahN6V)
 
-### 10/18(화) - DP[녹화]
+### 10/18(화) - DP
 * ___강의목표___ : Dynamic Programming 문제를 이해하고 예제를 살펴봅니다.
 
-### 10/20(목) - DP
-* ___강의목표___ : Dynamic Programming 문제를 이해하고 예제를 살펴봅니다.
+### 10/20(목) - 중간고사
 
-### 10/25(화) - Graph
-* ___강의목표___ : Graph Algorithm 문제를 이해하고 예제를 살펴봅니다.
-* [Graph Algorithm(2)](https://drive.google.com/file/d/1yxlp4Lbs8-APuNqTCnzgKICgkS1-pwQx/)
+### 10/25(화) - DP
+* ___강의목표___ : Dynamic Programming 문제를 이해하고 예제를 살펴봅니다.
 
 ### 10/27(목) - Graph
 * ___강의목표___ : Graph Algorithm 문제를 이해하고 예제를 살펴봅니다.
+* [Graph Algorithm(2)](https://drive.google.com/file/d/1yxlp4Lbs8-APuNqTCnzgKICgkS1-pwQx/)
 
-### 11/1(화) - 중간고사
+### 11/1(화) - Graph
+* ___강의목표___ : Graph Algorithm 문제를 이해하고 예제를 살펴봅니다.
 
 ### 11/3(목) - Graph
 * ___강의목표___ : Graph Algorithm 문제를 이해하고 예제를 살펴봅니다.
 
-### 11/8(화) - 중간고사 풀이[녹화]
+### 11/8(화) - 중간고사 풀이
 * ___강의목표___ : 중간고사 문제를 유사코드 및 Python으로 작성해봅니다.
 
 ### 11/10(목) - Graph
