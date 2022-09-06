@@ -1,5 +1,5 @@
 ## Algorithm
-**아래 링크된 문서는 경희대 Google 이메일로 로그인이 필요합니다.**
+**아래 링크된 문서는 경희대 Google 이메일로 로그인이 필요합니다!!**
 ### 9/1(목) - 강의 소개
 * ___강의목표___ : 강의 계획을 소개하고, 산업경영공학 전공에서 알고리즘 응용 분야를 살펴본다.
 * [2022 산업경영알고리즘 강의계획서](https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2022&p_term=20&p_teach=027799&p_code=IE31800&p_subjt=IE318&lang=ko&loginYn=N)
