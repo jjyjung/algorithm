@@ -14,9 +14,7 @@
 * [Python basic1, basic2](https://github.com/jjyjung/python) : GitHub의 예제 코드를 업로드해본다.
 * [w3schools.com - Python](https://www.w3schools.com/python/) : Python 기초 문법을 살펴보고, 각자 모르는 부분들은 추후 자습한다.
 
-### 9/13(화) - 휴강(추석)
-
-### 9/15(목) - Python Basic(1)
+### 9/13(화) - Python Basic(1)
 * ___강의목표___ : Python 기본 문법을 살펴보고, 1장의 유사코드를 Colab에서 구현해본다.
 * App.1 - 알고리즘 표현 방식 및 Python 자료 구조
 * python_basic1.ipynb : 기본 문법(1)을 함께 학습한다.
