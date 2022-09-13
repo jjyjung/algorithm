@@ -9,7 +9,7 @@
 * ___강의목표___ : 알고리즘의 개념과 필요성을 이해하고, 유사코드(pseudo-code)의 예시를 살펴본다.
 * [알고리즘 개요 및 복잡도(Complexity)](https://drive.google.com/file/d/1CNd6V8yh2cn9Nf6_dz7pBR3usMwbMlAJ/view?usp=sharing)
 
-### 9/8(목) - Python Basic(1)
+### 9/8(목) - Python 설치
 * ___강의목표___ : 클라우드 코딩 환경인 Google Colab을 사용하는 방법을 배우고, Colab에서 Python 기초코드를 학습한다.
 * [Google Colab 사용법](https://docs.google.com/document/d/1dNI-H5wLt23CE1kA0C7XHus5Z04WcYLFdqRtiKh4sfQ/edit) : 설치 및 사용법을 익힌다.
 * [Python basic1, basic2](https://github.com/jjyjung/python) : GitHub의 예제 코드를 업로드해본다.
