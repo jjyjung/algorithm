@@ -12,18 +12,21 @@
 ### 9/8(목) - Python 설치
 * ___강의목표___ : 클라우드 코딩 환경인 Google Colab을 사용하는 방법을 배우고, Colab에서 Python 기초코드를 학습한다.
 * [Google Colab 사용법](https://docs.google.com/document/d/1dNI-H5wLt23CE1kA0C7XHus5Z04WcYLFdqRtiKh4sfQ/edit) : 설치 및 사용법을 익힌다.
+
+### 9/13(화) - Intro to Algorithm
+* ___강의목표___ : 알고리즘의 복잡도에 대하여 이해하고, 유사코드(pseudo-code)의 예시를 살펴본다.
+
+### 9/15(목) - Python Basic(1)
+* ___강의목표___ : Python 기본 문법을 살펴보고, 1장의 유사코드를 Colab에서 구현해본다.
 * [Python basic1, basic2](https://github.com/jjyjung/python) : GitHub의 예제 코드를 업로드해본다.
 * [w3schools.com - Python](https://www.w3schools.com/python/) : Python 기초 문법을 살펴보고, 각자 모르는 부분들은 추후 자습한다.
-
-### 9/13(화) - Python Basic(1)
-* ___강의목표___ : Python 기본 문법을 살펴보고, 1장의 유사코드를 Colab에서 구현해본다.
-* App.1 - 알고리즘 표현 방식 및 Python 자료 구조
 * python_basic1.ipynb : 기본 문법(1)을 함께 학습한다.
 * 1장의 유사코드를 Colab에서 직접 Python으로 구현해본다.
 
 ### 9/20(화) - Python Basic(2)
 * ___강의목표___ : Python 기본 문법을 살펴보고, 자료구조를 Colab에서 구현해본다.
 * python_basic2.ipynb : 기초 문법(2)를 함께 학습한다. 
+* App.1 - 알고리즘 표현 방식 및 Python 자료 구조
 
 ### 9/22(목) - Sorting
 * ___강의목표___ : Selection Sort, Bubble Sort, Insertion Sort, Merge Sort, Quick Sort를 설명합니다.
