@@ -65,7 +65,7 @@
 
 ### 10/27(목) - Graph
 * ___강의목표___ : Graph Algorithm 문제를 이해하고 예제를 살펴봅니다.
-* [Graph Algorithm(2)](https://drive.google.com/file/d/1yxlp4Lbs8-APuNqTCnzgKICgkS1-pwQx/)
+* [Graph Algorithm](https://drive.google.com/file/d/1yxlp4Lbs8-APuNqTCnzgKICgkS1-pwQx/)
 
 ### 11/1(화) - Graph
 * ___강의목표___ : Graph Algorithm 문제를 이해하고 예제를 살펴봅니다.
@@ -77,12 +77,14 @@
 * ___강의목표___ : 중간고사 문제를 유사코드 및 Python으로 작성해봅니다.
 
 ### 11/10(목) - Graph
-### 11/17(목) - Graph
 * ___강의목표___ : Graph Algorithm 문제를 이해하고 예제를 살펴봅니다.
+
+### 11/17(목) - Graph
+* ___강의목표___ : State-Space Tree (SST) 문제를 이해하고 예제를 살펴봅니다.
+* [State-Space Tree (SST)](https://drive.google.com/file/d/1e84ohYLcNH58W-BbWaynLIQTCRNUdc-5/)
 
 ### 11/29(화) - SST
 * ___강의목표___ : State-Space Tree (SST) 문제를 이해하고 예제를 살펴봅니다.
-* [State-Space Tree (SST)](https://drive.google.com/file/d/1e84ohYLcNH58W-BbWaynLIQTCRNUdc-5/)
 
 ### 12/1(목) - Search
 * ___강의목표___ : Hill Climbing, Best-First Search, Beam-Search 기법을 이해하고 예제를 살펴봅니다.
