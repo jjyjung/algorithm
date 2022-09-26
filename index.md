@@ -33,7 +33,6 @@
 * [정렬(Sorting)](https://drive.google.com/file/d/1NUUd3WZvNytGbxhUZYSEiQYqTGUkLlSV)
 
 ### 9/27(화) - Data Structure
-* [Python code - Ch.1](https://github.com/jjyjung/algorithm/blob/gh-pages/ch1.ipynb)
 * [Intro to Data Structure](https://drive.google.com/file/d/13FByx5gMY8_zAdXKdVTqjtys9j5rs6MK)
 * [Python code - Data structure](https://github.com/jjyjung/algorithm/blob/gh-pages/data_structure.ipynb)
 
