@@ -32,13 +32,13 @@
 * ___강의목표___ : Selection Sort, Bubble Sort, Insertion Sort, Merge Sort, Quick Sort를 설명합니다.
 * [정렬(Sorting)](https://drive.google.com/file/d/1NUUd3WZvNytGbxhUZYSEiQYqTGUkLlSV)
 
-### 9/27(화) - Data Structure
-* [Intro to Data Structure](https://drive.google.com/file/d/13FByx5gMY8_zAdXKdVTqjtys9j5rs6MK)
-* [Python code - Data structure](https://github.com/jjyjung/algorithm/blob/gh-pages/data_structure.ipynb)
-
-### 9/29(목) - Sorting in Python
+### 9/27(화) - Sorting in Python
 * ___강의목표___ : SelectionSort, BubbleSort, MergeSort 등을 Python으로 함께 구현해봅니다.
 * [Python code - Sorting](https://github.com/jjyjung/algorithm/blob/gh-pages/ch4.ipynb)
+
+### 9/29(목) - Data Structure
+* [Intro to Data Structure](https://drive.google.com/file/d/13FByx5gMY8_zAdXKdVTqjtys9j5rs6MK)
+* [Python code - Data structure](https://github.com/jjyjung/algorithm/blob/gh-pages/data_structure.ipynb)
 
 ### 10/4(화) - Sorting
 * ___강의목표___ : HeapSort, RadixSort, CountingSort를 설명하고, InsertionSort, QuickSort, HeapSort, CountingSort를 Python으로 함께 구현해봅니다.
