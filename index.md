@@ -103,3 +103,5 @@
 * __Pythonic~__ (파이썬스럽게 코드짜는 법)
   - [PEP 8](https://www.python.org/dev/peps/pep-0008/)
   - [Pythonic은 무엇인가? (PEP 8 정리)](https://codechacha.com/ko/pythonic-and-pep8/)
+* 문제해결을 위한 창의적  알고리즘(중급) [download](https://drive.google.com/file/d/1bWZI2IAEe2yLIChwcULNw_4mjYTm8BPa/)
+* 문제해결을 위한 창의적  알고리즘(고급) [download](https://drive.google.com/file/d/1hxhZqmiXTH4pnp8fnuUBa7xQAX9VGnfn/)
