@@ -50,17 +50,16 @@
 ### 10/11(화) - Search Tree
 * ___강의목표___ : 검색트리(Search Tree) 중 Red-Black Tree의 개념을 이해합니다.
 
-### 10/13(목) - DP
-* ___강의목표___ : Dynamic Programming 문제를 이해하고 예제를 살펴봅니다.
-* [동적계획법(Dynamic Programming: DP)](https://drive.google.com/file/d/1pK75Iu7suvJQ1wKlH7o-EDl595hahN6V)
+### 10/13(목) - Search Tree
+* ___강의목표___ : 검색트리(Search Tree) 중 B-Tree, KD-Tree의 개념을 이해합니다.
 
-### 10/18(화) - DP
-* ___강의목표___ : Dynamic Programming 문제를 이해하고 예제를 살펴봅니다.
+### 10/18(화) - 중간고사 대비 실습
 
 ### 10/20(목) - 중간고사
 
 ### 10/25(화) - DP
 * ___강의목표___ : Dynamic Programming 문제를 이해하고 예제를 살펴봅니다.
+* [동적계획법(Dynamic Programming: DP)](https://drive.google.com/file/d/1pK75Iu7suvJQ1wKlH7o-EDl595hahN6V)
 
 ### 10/27(목) - Graph
 * ___강의목표___ : Graph Algorithm 문제를 이해하고 예제를 살펴봅니다.
