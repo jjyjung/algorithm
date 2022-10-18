@@ -54,6 +54,9 @@
 * ___강의목표___ : 검색트리(Search Tree) 중 B-Tree, KD-Tree의 개념을 이해합니다.
 
 ### 10/18(화) - 중간고사 대비 실습
+* [2017 mid-term](https://drive.google.com/file/d/1fhzgmI_xJKoM5zHsOt01wvt-k61NoKpl/)
+* [2018 mid-term](https://drive.google.com/file/d/1qzKnotT3Ro_zx_qAyrqFkcpjY-MMVnEk/)
+* [2019 mid-term](https://drive.google.com/file/d/17nCTdGnDZDb0jsKkmDcKnAkLCbd9JBod/)
 
 ### 10/20(목) - 중간고사
 
