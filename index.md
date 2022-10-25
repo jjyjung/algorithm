@@ -62,24 +62,25 @@
 ### 10/25(화) - DP
 * ___강의목표___ : Dynamic Programming 문제를 이해하고 예제를 살펴봅니다.
 * [동적계획법(Dynamic Programming: DP)](https://drive.google.com/file/d/1pK75Iu7suvJQ1wKlH7o-EDl595hahN6V)
+* **[과제] 조약돌 Python 구현하기 (재귀적호출, DP top-down, DP bottom-up)** [ch8_pebble_HW.ipynb](https://github.com/jjyjung/algorithm/blob/gh-pages/ch8_pebble_HW.ipynb) - 10/31(월) 23:59까지
 
-### 10/27(목) - Graph
-* ___강의목표___ : Graph Algorithm 문제를 이해하고 예제를 살펴봅니다.
-* [Graph Algorithm](https://drive.google.com/file/d/1yxlp4Lbs8-APuNqTCnzgKICgkS1-pwQx/)
+### 10/27(목) - DP
+* ___강의목표___ : Dynamic Programming 문제를 이해하고 예제를 살펴봅니다.
 
-### 11/1(화) - Graph
-* ___강의목표___ : Graph Algorithm 문제를 이해하고 예제를 살펴봅니다.
+### 11/1(화) - DP [휴강: e-Campus 녹화강의]
+* ___강의목표___ : Dynamic Programming 문제를 이해하고 예제를 살펴봅니다.
 
 ### 11/3(목) - Graph
 * ___강의목표___ : Graph Algorithm 문제를 이해하고 예제를 살펴봅니다.
+* [Graph Algorithm](https://drive.google.com/file/d/1yxlp4Lbs8-APuNqTCnzgKICgkS1-pwQx/)
 
-### 11/8(화) - 중간고사 풀이
-* ___강의목표___ : 중간고사 문제를 유사코드 및 Python으로 작성해봅니다.
+### 11/8(화) - Graph
+* ___강의목표___ : Graph Algorithm 문제를 이해하고 예제를 살펴봅니다.
 
 ### 11/10(목) - Graph
 * ___강의목표___ : Graph Algorithm 문제를 이해하고 예제를 살펴봅니다.
 
-### 11/17(목) - Graph
+### 11/17(목) - SST
 * ___강의목표___ : State-Space Tree (SST) 문제를 이해하고 예제를 살펴봅니다.
 * [State-Space Tree (SST)](https://drive.google.com/file/d/1e84ohYLcNH58W-BbWaynLIQTCRNUdc-5/)
 
