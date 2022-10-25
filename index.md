@@ -62,7 +62,7 @@
 ### 10/25(화) - DP
 * ___강의목표___ : Dynamic Programming 문제를 이해하고 예제를 살펴봅니다.
 * [동적계획법(Dynamic Programming: DP)](https://drive.google.com/file/d/1pK75Iu7suvJQ1wKlH7o-EDl595hahN6V)
-* **[과제] 조약돌 Python 구현하기 (재귀적호출, DP top-down, DP bottom-up)** [ch8_pebble_HW.ipynb](https://github.com/jjyjung/algorithm/blob/gh-pages/ch8_pebble_HW.ipynb) - 10/31(월) 23:59까지
+* **[과제]** 조약돌 Python 구현하기 (재귀적호출, DP top-down, DP bottom-up) [ch8_pebble_HW.ipynb](https://github.com/jjyjung/algorithm/blob/gh-pages/ch8_pebble_HW.ipynb) - 10/31(월) 23:59까지
 
 ### 10/27(목) - DP
 * ___강의목표___ : Dynamic Programming 문제를 이해하고 예제를 살펴봅니다.
