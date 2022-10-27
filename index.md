@@ -68,6 +68,9 @@
 
 ### 10/27(목) - DP
 * ___강의목표___ : Dynamic Programming 문제를 이해하고 예제를 살펴봅니다.
+* **[과제]** 행렬경로, 행렬곱, LCS의 Python 구현하기 
+  - 세 가지 방식(재귀적호출, DP top-down, DP bottom-up)의 코드를 완성하시오.
+  - [ch9_others_HW.ipynb](https://github.com/jjyjung/algorithm/blob/gh-pages/ch9_others_HW.ipynb) - 11/2(수) 23:59까지
 
 ### 11/1(화) - DP [휴강: e-Campus 녹화강의]
 * ___강의목표___ : Dynamic Programming 문제를 이해하고 예제를 살펴봅니다.
