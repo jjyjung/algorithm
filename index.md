@@ -73,7 +73,7 @@
   - [ch9_others_HW.ipynb](https://github.com/jjyjung/algorithm/blob/gh-pages/ch9_others_HW.ipynb) - 11/2(수) 23:59까지
 
 ### 11/1(화) - DP [휴강: e-Campus 녹화강의]
-* ___강의목표___ : Dynamic Programming 문제를 이해하고 예제를 살펴봅니다.
+* ___강의목표___ : Dynamic Programming 문제들(조약돌, 행렬경로, 행렬곱, LCS)의 Python 구현에 대하여 설명합니다.
 
 ### 11/3(목) - Graph
 * ___강의목표___ : Graph Algorithm 문제를 이해하고 예제를 살펴봅니다.
