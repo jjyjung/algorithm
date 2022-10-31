@@ -9,7 +9,7 @@
 * ___강의목표___ : 알고리즘의 개념과 필요성을 이해하고, 유사코드(pseudo-code)의 예시를 살펴본다.
 * [알고리즘 개요 및 복잡도(Complexity)](https://drive.google.com/file/d/1CNd6V8yh2cn9Nf6_dz7pBR3usMwbMlAJ/view?usp=sharing)
 
-### 9/8(목) - Python 설치
+### 9/8(목) - Python 설치 [녹화]
 * ___강의목표___ : 클라우드 코딩 환경인 Google Colab을 사용하는 방법을 배우고, Colab에서 Python 기초코드를 학습한다.
 * [Google Colab 사용법](https://docs.google.com/document/d/1dNI-H5wLt23CE1kA0C7XHus5Z04WcYLFdqRtiKh4sfQ/edit) : 설치 및 사용법을 익힌다.
 
@@ -50,7 +50,7 @@
 ### 10/11(화) - Search Tree
 * ___강의목표___ : 검색트리(Search Tree) 중 Red-Black Tree의 개념을 이해합니다.
 
-### 10/13(목) - Search Tree
+### 10/13(목) - Search Tree [녹화]
 * ___강의목표___ : 검색트리(Search Tree) 중 B-Tree, KD-Tree의 개념을 이해합니다.
 
 ### 10/18(화) - 중간고사 대비 실습
@@ -72,7 +72,7 @@
   - 세 가지 방식(재귀적호출, DP top-down, DP bottom-up)의 코드를 완성하시오.
   - [ch9_others_HW.ipynb](https://github.com/jjyjung/algorithm/blob/gh-pages/ch9_others_HW.ipynb) - 11/2(수) 23:59까지
 
-### 11/1(화) - DP [휴강: e-Campus 녹화강의]
+### 11/1(화) - DP  [녹화]
 * ___강의목표___ : Dynamic Programming 문제들(조약돌, 행렬경로, 행렬곱, LCS)의 Python 구현에 대하여 설명합니다.
 
 ### 11/3(목) - Graph
@@ -82,7 +82,7 @@
 ### 11/8(화) - Graph
 * ___강의목표___ : Graph Algorithm 문제를 이해하고 예제를 살펴봅니다.
 
-### 11/10(목) - Graph
+### 11/10(목) - Graph [녹화]
 * ___강의목표___ : Graph Algorithm 문제를 이해하고 예제를 살펴봅니다.
 
 ### 11/17(목) - SST
