@@ -79,7 +79,7 @@
 * ___강의목표___ : Graph Algorithm 문제를 이해하고 예제를 살펴봅니다.
 * [Graph Algorithm](https://drive.google.com/file/d/1yxlp4Lbs8-APuNqTCnzgKICgkS1-pwQx/)
 
-### 11/8(화) - Graph
+### 11/8(화) - Graph [녹화]
 * ___강의목표___ : Graph Algorithm 문제를 이해하고 예제를 살펴봅니다.
 
 ### 11/10(목) - Graph [녹화]
