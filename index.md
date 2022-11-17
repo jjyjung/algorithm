@@ -109,8 +109,8 @@
 
 ### 12/6(화) - 기말고사
 
-### Term Project
-* [Project Guide](https://docs.google.com/document/d/1wAKHfYC1bk1OqCE4G3kWMpoeYqgqHNGR/)
+### 2022 Term Project
+* [Project Guide](https://docs.google.com/document/d/12NI8htbs0MT_-0iCUgCcyX6qfn1lXaAZ/)
 
 ### Supplementary Materials
 * [w3schools.com - Python](https://www.w3schools.com/python/)
