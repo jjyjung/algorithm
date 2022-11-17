@@ -85,24 +85,29 @@
 ### 11/10(목) - Graph [녹화]
 * ___강의목표___ : MST(최소신장트리) 문제와 Prim 및 Kruskal 알고리즘을 이해하고 Python으로 구현해봅니다.
 
-### 11/15(화) - Graph [녹화]
+### 11/15(화) - Graph
 * ___강의목표___ : Graph 문제를 이해하고 Python으로 구현해봅니다.
 
-### 11/17(목) - SST
+### 11/17(목) - Graph
+* ___강의목표___ : 최단경로 문제를 이해하고 Dijkstra, Bellman-Ford, Floyd-Warshall 알고리즘을 살펴봅니다.
+
+### 11/22(화) - SST
 * ___강의목표___ : State-Space Tree (SST) 문제를 이해하고 예제를 살펴봅니다.
 * [State-Space Tree (SST)](https://drive.google.com/file/d/1e84ohYLcNH58W-BbWaynLIQTCRNUdc-5/)
 
-### 11/29(화) - SST
-* ___강의목표___ : State-Space Tree (SST) 문제를 이해하고 예제를 살펴봅니다.
-
-### 12/1(목) - Search
+### 11/24(목) - SST
 * ___강의목표___ : Hill Climbing, Best-First Search, Beam-Search 기법을 이해하고 예제를 살펴봅니다.
 * [Search](https://drive.google.com/file/d/1wmuwQz6EcUl9B8ZpKIm0-HGbi8KsMgHg/)
 * [Search(강의설명)](https://drive.google.com/file/d/1t3D4LLnU4x2JKMHeieXAVRDYZgDTicbr/)
 
-### 12/6(화) - Search
+### 11/29(화) - SST
 * ___강의목표___ : Branch-and-Bound(B&B), A* Algorithm 기법을 이해하고 예제를 살펴봅니다.
 * [8-Puzzle의 Heuristics 적용 예시](https://docs.google.com/spreadsheets/d/10rjHMWcx70jk029l9emhDcmXTKWOrt05/)
+
+### 12/1(목) - SST
+* ___강의목표___ : SST의 Python 코드를 연습합니다.
+
+### 12/6(화) - 기말고사
 
 ### Term Project
 * [Project Guide](https://docs.google.com/document/d/1wAKHfYC1bk1OqCE4G3kWMpoeYqgqHNGR/)
