@@ -111,6 +111,7 @@
 
 ### 2022 Term Project
 * [Project Guide](https://docs.google.com/document/d/12NI8htbs0MT_-0iCUgCcyX6qfn1lXaAZ/)
+* [Project 주제 제안(11/24 수업전까지)](https://docs.google.com/spreadsheets/d/1FmYrhNYfi7B_KCybI-dG6pWEItq47uW8CJEoot45C0Q/)
 
 ### Supplementary Materials
 * [w3schools.com - Python](https://www.w3schools.com/python/)
