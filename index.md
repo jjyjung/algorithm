@@ -102,12 +102,15 @@
 
 ### 11/29(화) - SST
 * ___강의목표___ : Branch-and-Bound(B&B), A* Algorithm 기법을 이해하고 예제를 살펴봅니다.
-* [8-Puzzle의 Heuristics 적용 예시](https://docs.google.com/spreadsheets/d/10rjHMWcx70jk029l9emhDcmXTKWOrt05/)
+* [8-Puzzle의 Heuristics 적용 예시](https://docs.google.com/spreadsheets/d/1oM2ybWiHj39MHBLy6mKGS_tDVe1OtoZc/)
 
-### 12/1(목) - SST
+### 12/1(목) - SST [동영상]
 * ___강의목표___ : SST의 Python 코드를 연습합니다.
 
-### 12/6(화) - 기말고사
+### 12/6(화) - SST
+* ___강의목표___ : SST의 Python 코드를 연습합니다.
+
+### 12/8(목) - 기말고사 (10:30~13:00, 강의실)
 
 ### 2022 Term Project
 * [Project Guide](https://docs.google.com/document/d/12NI8htbs0MT_-0iCUgCcyX6qfn1lXaAZ/)
