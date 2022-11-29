@@ -104,14 +104,14 @@
 * [8-Puzzle의 Heuristics 적용 예시](https://docs.google.com/spreadsheets/d/1oM2ybWiHj39MHBLy6mKGS_tDVe1OtoZc/)
 * [maze python code](https://github.com/jjyjung/algorithm/blob/gh-pages/ch14_blank.ipynb)
 
-### 12/1(목) - SST [동영상 강의]
+### 12/1(목) - SST [녹화]
 * ___강의목표___ : SST의 Python 코드를 연습합니다.
 
 ### 12/6(화) - SST
 * ___강의목표___ : SST의 Python 코드를 연습합니다.
 
 ### 12/8(목) - 기말고사 (10:30~13:00, 강의실)
-* 12시~13시까지 강의가 있는 사람은 알려주세요. 9:30부터 시작 예정입니다. 
+* 12시~13시까지 강의가 있는 사람에 한하여 9:30~12:00에 실시 예정입니다.(신청자: 김송혁, 김의석, 김태영, 김현희, 한혜민)
 
 ### 2022 Term Project
 * [Project Guide](https://docs.google.com/document/d/12NI8htbs0MT_-0iCUgCcyX6qfn1lXaAZ/)
