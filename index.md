@@ -55,12 +55,13 @@
 
 ### 10/18(화) - 중간고사 대비 실습
 * [2019 mid-term](https://drive.google.com/file/d/17nCTdGnDZDb0jsKkmDcKnAkLCbd9JBod/),
- [2018 mid-term](https://drive.google.com/file/d/1qzKnotT3Ro_zx_qAyrqFkcpjY-MMVnEk/),
- [2017 mid-term](https://drive.google.com/file/d/1fhzgmI_xJKoM5zHsOt01wvt-k61NoKpl/)
+  [2018 mid-term](https://drive.google.com/file/d/1qzKnotT3Ro_zx_qAyrqFkcpjY-MMVnEk/),
+  [2017 mid-term](https://drive.google.com/file/d/1fhzgmI_xJKoM5zHsOt01wvt-k61NoKpl/)
 * [mid_정재윤.ipynb (제출예시)](https://github.com/jjyjung/algorithm/blob/gh-pages/mid_%EC%A0%95%EC%9E%AC%EC%9C%A4.ipynb)
 
 ### 10/20(목) - 중간고사
 * [2022 mid-term](https://drive.google.com/file/d/1Q7Nl2HbI5GV8XuZHA-77Wpt8JuWJ17fG/)
+  [mid_홍길동.ipynb](https://github.com/jjyjung/algorithm/blob/gh-pages/mid_%ED%99%8D%EA%B8%B8%EB%8F%99.ipynb)
 
 ### 10/25(화) - DP
 * ___강의목표___ : Dynamic Programming 문제를 이해하고 예제를 살펴봅니다.
