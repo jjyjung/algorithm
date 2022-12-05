@@ -116,7 +116,6 @@
 * [2019 final](https://drive.google.com/file/d/1l_ZsBfozC9Z1jHnoSezPEc3dSX0Jtgc1/), 
 [2018 final](https://drive.google.com/file/d/1z3DBHWFZ5pOhEUBMA-ooRic9_kJsitIg/), 
 [2017 final](https://drive.google.com/file/d/1x6oFcEDOfH_ndAuUtCjP6Kta_2ol1oMi/)
-* [final_정재윤.ipynb (제출예시)](https://github.com/jjyjung/algorithm/blob/gh-pages/final_%EC%A0%95%EC%9E%AC%EC%9C%A4.ipynb)
 
 ### 12/8(목) - 기말고사
 * 일시: 10:30-12:00
