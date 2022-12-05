@@ -54,8 +54,8 @@
 * ___강의목표___ : 검색트리(Search Tree) 중 B-Tree, KD-Tree의 개념을 이해합니다.
 
 ### 10/18(화) - 중간고사 대비 실습
-* [mid_정재윤.ipynb (제출예시)](https://github.com/jjyjung/algorithm/blob/gh-pages/mid_%EC%A0%95%EC%9E%AC%EC%9C%A4.ipynb)
 * [2019 mid-term](https://drive.google.com/file/d/17nCTdGnDZDb0jsKkmDcKnAkLCbd9JBod/), [2018 mid-term](https://drive.google.com/file/d/1qzKnotT3Ro_zx_qAyrqFkcpjY-MMVnEk/), [2017 mid-term](https://drive.google.com/file/d/1fhzgmI_xJKoM5zHsOt01wvt-k61NoKpl/)
+* [mid_정재윤.ipynb (제출예시)](https://github.com/jjyjung/algorithm/blob/gh-pages/mid_%EC%A0%95%EC%9E%AC%EC%9C%A4.ipynb)
 
 ### 10/20(목) - 중간고사
 
@@ -107,8 +107,12 @@
 ### 12/1(목) - SST [녹화]
 * ___강의목표___ : SST의 Python 코드를 연습합니다.
 
-### 12/6(화) - SST
+### 12/6(화) - 기말고사 대비 실습
 * ___강의목표___ : SST의 Python 코드를 연습합니다.
+* [2019 final](https://drive.google.com/file/d/1l_ZsBfozC9Z1jHnoSezPEc3dSX0Jtgc1/), 
+[2018 final](https://drive.google.com/file/d/1z3DBHWFZ5pOhEUBMA-ooRic9_kJsitIg/), 
+[2017 final](https://drive.google.com/file/d/1x6oFcEDOfH_ndAuUtCjP6Kta_2ol1oMi/)
+* [final_정재윤.ipynb (제출예시)](https://github.com/jjyjung/algorithm/blob/gh-pages/final_%EC%A0%95%EC%9E%AC%EC%9C%A4.ipynb)
 
 ### 12/8(목) - 기말고사
 * 일시: 10:30-12:00
