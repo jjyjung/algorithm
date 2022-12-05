@@ -61,7 +61,7 @@
 
 ### 10/20(목) - 중간고사
 * [2022 mid-term](https://drive.google.com/file/d/1Q7Nl2HbI5GV8XuZHA-77Wpt8JuWJ17fG/)
-  [mid_홍길동.ipynb](https://github.com/jjyjung/algorithm/blob/gh-pages/mid_%ED%99%8D%EA%B8%B8%EB%8F%99.ipynb)
+* [mid_홍길동.ipynb](https://github.com/jjyjung/algorithm/blob/gh-pages/mid_%ED%99%8D%EA%B8%B8%EB%8F%99.ipynb)
 
 ### 10/25(화) - DP
 * ___강의목표___ : Dynamic Programming 문제를 이해하고 예제를 살펴봅니다.
