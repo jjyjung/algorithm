@@ -54,10 +54,13 @@
 * ___강의목표___ : 검색트리(Search Tree) 중 B-Tree, KD-Tree의 개념을 이해합니다.
 
 ### 10/18(화) - 중간고사 대비 실습
-* [2019 mid-term](https://drive.google.com/file/d/17nCTdGnDZDb0jsKkmDcKnAkLCbd9JBod/), [2018 mid-term](https://drive.google.com/file/d/1qzKnotT3Ro_zx_qAyrqFkcpjY-MMVnEk/), [2017 mid-term](https://drive.google.com/file/d/1fhzgmI_xJKoM5zHsOt01wvt-k61NoKpl/)
+* [2019 mid-term](https://drive.google.com/file/d/17nCTdGnDZDb0jsKkmDcKnAkLCbd9JBod/),
+ [2018 mid-term](https://drive.google.com/file/d/1qzKnotT3Ro_zx_qAyrqFkcpjY-MMVnEk/),
+ [2017 mid-term](https://drive.google.com/file/d/1fhzgmI_xJKoM5zHsOt01wvt-k61NoKpl/)
 * [mid_정재윤.ipynb (제출예시)](https://github.com/jjyjung/algorithm/blob/gh-pages/mid_%EC%A0%95%EC%9E%AC%EC%9C%A4.ipynb)
 
 ### 10/20(목) - 중간고사
+* [2022 mid-term](https://drive.google.com/file/d/1Q7Nl2HbI5GV8XuZHA-77Wpt8JuWJ17fG/)
 
 ### 10/25(화) - DP
 * ___강의목표___ : Dynamic Programming 문제를 이해하고 예제를 살펴봅니다.
@@ -117,6 +120,7 @@
 ### 12/8(목) - 기말고사
 * 일시: 10:30-12:00
 * 장소: 실습실(공대 244호)
+* 범위: 중간고사 이후에 배운 내용 (단, 2022년 중간고사 문제 중에서 1문제 제출 예정)
 
 ### 2022 Term Project
 * [Project Guide](https://docs.google.com/document/d/12NI8htbs0MT_-0iCUgCcyX6qfn1lXaAZ/)
