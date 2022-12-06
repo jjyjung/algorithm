@@ -116,6 +116,7 @@
 * [2019 final](https://drive.google.com/file/d/1l_ZsBfozC9Z1jHnoSezPEc3dSX0Jtgc1/), 
 [2018 final](https://drive.google.com/file/d/1z3DBHWFZ5pOhEUBMA-ooRic9_kJsitIg/), 
 [2017 final](https://drive.google.com/file/d/1x6oFcEDOfH_ndAuUtCjP6Kta_2ol1oMi/)
+* [Zoom https://khu-ac.zoom.us/j/87581867887](https://khu-ac.zoom.us/j/87581867887)
 
 ### 12/8(목) - 기말고사
 * 일시: 10:30-12:00
