@@ -122,7 +122,7 @@
 * 일시: 10:30-12:00
 * 장소: 실습실(공대 244호)
 * 범위: 중간고사 이후에 배운 내용 (단, 2022년 중간고사 문제 중에서 1문제 제출 예정)
-* [final_홍길동.ipynb](https://colab.research.google.com/drive/1pVDrgQOpEpWxeCmbehdKO3k_gfR7HOqB)
+* [final_홍길동.ipynb](https://github.com/jjyjung/algorithm/blob/gh-pages/final_%ED%99%8D%EA%B8%B8%EB%8F%99.ipynb)
 
 ### 2022 Term Project
 * [Project Guide](https://docs.google.com/document/d/12NI8htbs0MT_-0iCUgCcyX6qfn1lXaAZ/)
