@@ -124,6 +124,12 @@
 * 범위: 중간고사 이후에 배운 내용 (단, 2022년 중간고사 문제 중에서 1문제 제출 예정)
 * [final_홍길동.ipynb](https://github.com/jjyjung/algorithm/blob/gh-pages/final_%ED%99%8D%EA%B8%B8%EB%8F%99.ipynb)
 
+### 12/13(화) - 휴강
+
+### 12/15(목), 12/20(화) - 학기과제 시청 및 질의응답
+* ___출석___ : 필수참석자는 결석시 과제점수 감점(참석 및 질의응답 대응 필요). 다른 학생들은 자율 출석.
+[필수참석자(Spreadsheet 참조)](https://docs.google.com/spreadsheets/d/1FmYrhNYfi7B_KCybI-dG6pWEItq47uW8CJEoot45C0Q/)
+
 ### 2022 Term Project
 * [Project Guide](https://docs.google.com/document/d/12NI8htbs0MT_-0iCUgCcyX6qfn1lXaAZ/)
 * [Project 주제 제안(11/24 수업전까지)](https://docs.google.com/spreadsheets/d/1FmYrhNYfi7B_KCybI-dG6pWEItq47uW8CJEoot45C0Q/)
