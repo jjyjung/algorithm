@@ -126,9 +126,9 @@
 
 ### 12/13(화) - 휴강
 
-### 12/15(목), 12/20(화) - 학기과제 시청 및 질의응답
-* ___출석___ : 필수참석자는 결석시 과제점수 감점(참석 및 질의응답 대응 필요). 다른 학생들은 자율 출석.
-[필수참석자(Spreadsheet 참조)](https://docs.google.com/spreadsheets/d/1FmYrhNYfi7B_KCybI-dG6pWEItq47uW8CJEoot45C0Q/)
+### 12/15(목), 12/20(화) - 학기과제 YouTube 발표 및 질의응답
+* ___출석___ : 각자 발표날짜에 참석하여 질의응답 대응 필수(결석시 과제점수 감점). 다른 학생들은 자율 출석.
+* ___발표날짜___ : [Spreadsheet 참조](https://docs.google.com/spreadsheets/d/1FmYrhNYfi7B_KCybI-dG6pWEItq47uW8CJEoot45C0Q/)
 
 ### 2022 Term Project
 * [Project Guide](https://docs.google.com/document/d/12NI8htbs0MT_-0iCUgCcyX6qfn1lXaAZ/)
