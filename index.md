@@ -83,7 +83,7 @@
 * [Project Guide](https://docs.google.com/document/d/12NI8htbs0MT_-0iCUgCcyX6qfn1lXaAZ/)
 * [Project 주제 제안(11/2 수업전까지)](https://docs.google.com/spreadsheets/d/1FmYrhNYfi7B_KCybI-dG6pWEItq47uW8CJEoot45C0Q/)
 
-### 11/2(목) - DP  [녹화]
+### 11/2(목) - DP [녹화]
 * ___강의목표___ : Dynamic Programming 문제들(조약돌, 행렬경로, 행렬곱, LCS)의 Python 구현에 대하여 설명합니다.
 
 ### 11/7(화) - Graph
