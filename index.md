@@ -1,11 +1,12 @@
 
 ## Algorithm
-**아래 링크된 문서는 경희대 Google 이메일로 로그인이 필요합니다!!**
+**사이트에 링크된 모든 문서는 경희대학교 이메일로 로그인이 필요합니다!!**
+* [강의메모](https://docs.google.com/presentation/d/1tNjILRDSQuGJfYeJnILN-g1w-fOp-TLRaee5F0UhYik/)
+* [(교재) 쉽게 배우는 알고리즘](https://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791156643753)
+
 ### 9/5(화) - 강의 소개
 * ___강의목표___ : 강의 계획을 소개하고, 산업경영공학 전공에서 알고리즘 응용 분야를 살펴본다.
 * [강의계획서](https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2023&p_term=20&p_teach=027799&p_code=IE31800&p_subjt=IE318&lang=ko&loginYn=N)
-* [강의메모](https://docs.google.com/presentation/d/1tNjILRDSQuGJfYeJnILN-g1w-fOp-TLRaee5F0UhYik/)
-* [(교재) 쉽게 배우는 알고리즘](https://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791156643753)
 
 ### 9/7(목) - Python 설치 [녹화]
 * ___강의목표___ : 클라우드 코딩 환경인 Google Colab을 사용하는 방법을 배우고, Colab에서 Python 기초코드를 학습한다.
