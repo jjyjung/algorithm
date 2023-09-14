@@ -28,15 +28,12 @@
 * ___강의목표___ : 알고리즘의 개념과 필요성을 이해하고, 유사코드(pseudo-code)의 예시를 살펴본다.
 * [알고리즘 개요 및 복잡도(Complexity)](https://drive.google.com/file/d/1CNd6V8yh2cn9Nf6_dz7pBR3usMwbMlAJ/view?usp=sharing)
 
-### 9/14(목) - Intro to Algorithm
-* ___강의목표___ : 알고리즘의 복잡도에 대하여 이해하고, 유사코드(pseudo-code)의 예시를 살펴본다.
-
-### 9/19(화) - Sorting
+### 9/14(목) - Sorting
 * ___강의목표___ : Selection Sort, Bubble Sort, Insertion Sort, Merge Sort, Quick Sort를 설명합니다.
 * [정렬(Sorting)](https://drive.google.com/file/d/1NUUd3WZvNytGbxhUZYSEiQYqTGUkLlSV)
 
+### 9/19(화) - 
 ### 9/21(목) - 
-
 ### 9/26(화) - 
 
 ### 9/28(목) - Sorting in Python
