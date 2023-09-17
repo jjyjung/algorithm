@@ -40,22 +40,23 @@
 * ___강의목표___ : Quick Sort, HeapSort, RadixSort, CountingSort를 학습합니다.
 * **과제** : InsertionSort, QuickSort, HeapSort, CountingSort를 Python으로 구현해봅니다.
 
-### 9/28(목) - 
+### 9/28(목) - [추석/녹화]
 
-### 10/3(화) - Data Structure
+### 10/3(화) - Data Structure [개천절/녹화]
 * [Intro to Data Structure](https://drive.google.com/file/d/13FByx5gMY8_zAdXKdVTqjtys9j5rs6MK)
 * [Python code - Data structure](https://github.com/jjyjung/algorithm/blob/gh-pages/data_structure.ipynb)
 
-### 10/5(목) - 
+### 10/5(목) - Search Tree
+* ___강의목표___ : 검색트리(Search Tree) 중 Binary Search Tree(BST)의 개념을 이해합니다.
+* [검색트리(Search Tree)](https://drive.google.com/file/d/1S7d68FXClkE7VlSZPWwZpBJEkXanuQ0u)
 
 ### 10/10(화) - Search Tree
 * ___강의목표___ : 검색트리(Search Tree) 중 Binary Search Tree(BST)의 개념을 이해합니다.
-* [검색트리(Search Tree)](https://drive.google.com/file/d/1S7d68FXClkE7VlSZPWwZpBJEkXanuQ0u)
 
 ### 10/12(목) - Search Tree
 * ___강의목표___ : 검색트리(Search Tree) 중 Red-Black Tree의 개념을 이해합니다.
 
-### 10/17(화) - Search Tree [녹화]
+### 10/17(화) - Search Tree
 * ___강의목표___ : 검색트리(Search Tree) 중 B-Tree, KD-Tree의 개념을 이해합니다.
 
 ### 10/19(목) - 중간고사 대비 실습
