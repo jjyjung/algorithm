@@ -29,11 +29,11 @@
 * [알고리즘 개요 및 복잡도(Complexity)](https://drive.google.com/file/d/1CNd6V8yh2cn9Nf6_dz7pBR3usMwbMlAJ/view?usp=sharing)
 
 ### 9/14(목) - Sorting
-* ___강의목표___ : Selection Sort, Bubble Sort, Insertion Sort, Merge Sort를 학습합니다.
+* ___강의목표___ : 기본정렬 알고리즘(Selection Sort, Bubble Sort, Insertion Sort)을 학습합니다.
 * [정렬(Sorting)](https://drive.google.com/file/d/1NUUd3WZvNytGbxhUZYSEiQYqTGUkLlSV)
 
 ### 9/19(화) - Sorting
-* ___강의목표___ : Quick Sort, HeapSort, RadixSort, CountingSort를 학습합니다.
+* ___강의목표___ : 고급정렬 알고리즘(Merge Sort, Quick Sort, HeapSort)을 학습합니다.
 * **과제** : InsertionSort, QuickSort, HeapSort, CountingSort를 Python으로 구현해봅니다.
 
 ### 9/21(목) - Sorting in Python [녹화]
@@ -41,7 +41,7 @@
 * [Python code - Sorting](https://github.com/jjyjung/algorithm/blob/gh-pages/ch4.ipynb)
 
 ### 9/26(화) - Sorting
-* ___강의목표___ : Quick Sort, HeapSort, RadixSort, CountingSort를 학습합니다.
+* ___강의목표___ : 특수정렬 알고리즘(RadixSort, CountingSort)을 학습합니다.
 * **과제** : InsertionSort, QuickSort, HeapSort, CountingSort를 Python으로 구현해봅니다.
 
 ### 9/28(목) - Data Structure [추석/녹화]
