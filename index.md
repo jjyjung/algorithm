@@ -34,34 +34,37 @@
 
 ### 9/19(화) - Sorting
 * ___강의목표___ : 고급정렬 알고리즘(Merge Sort, Quick Sort, HeapSort)을 학습합니다.
-* **과제** : InsertionSort, QuickSort, HeapSort, CountingSort를 Python으로 구현해봅니다.
 
 ### 9/21(목) - Sorting in Python [녹화]
 * ___강의목표___ : SelectionSort, BubbleSort, MergeSort 등을 Python으로 함께 구현해봅니다.
 * [Python code - Sorting](https://github.com/jjyjung/algorithm/blob/gh-pages/ch4_blank.ipynb)
+* **과제** : SelectionSort, MergeSort, InsertionSort, HeapSort를 Python으로 구현해봅니다.(~9/28)
 
 ### 9/26(화) - Sorting
 * ___강의목표___ : 특수정렬 알고리즘(RadixSort, CountingSort)을 학습합니다.
-* **과제** : InsertionSort, QuickSort, HeapSort, CountingSort를 Python으로 구현해봅니다.
 
 ### 9/28(목) - Data Structure [추석/녹화]
 * [Intro to Data Structure](https://drive.google.com/file/d/13FByx5gMY8_zAdXKdVTqjtys9j5rs6MK)
 * [Python code - Data structure](https://github.com/jjyjung/algorithm/blob/gh-pages/data_structure.ipynb)
 
-### 10/3(화) - Python [개천절/녹화]
-
-### 10/5(목) - Search Tree
+### 10/3(화) - Search Tree [개천절/녹화]
 * ___강의목표___ : 검색트리(Search Tree) 중 Binary Search Tree(BST)의 개념을 이해합니다.
 * [검색트리(Search Tree)](https://drive.google.com/file/d/1S7d68FXClkE7VlSZPWwZpBJEkXanuQ0u)
 
-### 10/10(화) - Search Tree
-* ___강의목표___ : 검색트리(Search Tree) 중 Binary Search Tree(BST)의 개념을 이해합니다.
+### 10/5(목) - BST in Python
+* ___강의목표___ : SelectionSort, BubbleSort, MergeSort 등을 Python으로 함께 구현해봅니다.
+* [Python code - BST](https://github.com/jjyjung/algorithm/blob/gh-pages/ch5_blank.ipynb)
+* **과제** : BST의 Python을 완성하여 제출합니다.(~10/9)
 
-### 10/12(목) - Search Tree
+### 10/10(화) - Search Tree
 * ___강의목표___ : 검색트리(Search Tree) 중 Red-Black Tree의 개념을 이해합니다.
 
-### 10/17(화) - Search Tree
+### 10/12(목) - Search Tree
 * ___강의목표___ : 검색트리(Search Tree) 중 B-Tree, KD-Tree의 개념을 이해합니다.
+
+### 10/17(화) - DP
+* ___강의목표___ : Dynamic Programming 문제를 이해하고 예제를 살펴봅니다.
+* [동적계획법(Dynamic Programming: DP)](https://drive.google.com/file/d/1pK75Iu7suvJQ1wKlH7o-EDl595hahN6V)
 
 ### 10/19(목) - 중간고사 대비 실습
 * [2019 mid-term](https://drive.google.com/file/d/17nCTdGnDZDb0jsKkmDcKnAkLCbd9JBod/),
@@ -69,7 +72,7 @@
   [2017 mid-term](https://drive.google.com/file/d/1fhzgmI_xJKoM5zHsOt01wvt-k61NoKpl/)
 * [mid_정재윤.ipynb (제출예시)](https://github.com/jjyjung/algorithm/blob/gh-pages/mid_%EC%A0%95%EC%9E%AC%EC%9C%A4.ipynb)
 
-### 10/24(화) - 중간고사
+### 10/24(화) - 중간고사[확정]
 * [2022 mid-term](https://drive.google.com/file/d/1Q7Nl2HbI5GV8XuZHA-77Wpt8JuWJ17fG/)
 * [mid_홍길동.ipynb](https://github.com/jjyjung/algorithm/blob/gh-pages/mid_%ED%99%8D%EA%B8%B8%EB%8F%99.ipynb)
 
