@@ -38,7 +38,7 @@
 
 ### 9/21(목) - Sorting in Python [녹화]
 * ___강의목표___ : SelectionSort, BubbleSort, MergeSort 등을 Python으로 함께 구현해봅니다.
-* [Python code - Sorting](https://github.com/jjyjung/algorithm/blob/gh-pages/ch4.ipynb)
+* [Python code - Sorting](https://github.com/jjyjung/algorithm/blob/gh-pages/ch4_blank.ipynb)
 
 ### 9/26(화) - Sorting
 * ___강의목표___ : 특수정렬 알고리즘(RadixSort, CountingSort)을 학습합니다.
