@@ -53,7 +53,7 @@
 
 ### 10/5(목) - 2022 중간고사 소개
 * [2022 mid-term](https://drive.google.com/file/d/1Q7Nl2HbI5GV8XuZHA-77Wpt8JuWJ17fG/)
-* [mid2022_홍길동.ipynb]()
+* [mid2022_홍길동.ipynb](https://github.com/jjyjung/algorithm/blob/gh-pages/mid2022_%ED%99%8D%EA%B8%B8%EB%8F%99.ipynb)
 * [mid2022_정답.ipynb](https://github.com/jjyjung/algorithm/blob/gh-pages/mid2022_%EC%A0%95%EB%8B%B5.ipynb)
   
 ### 10/5(목) - BST in Python
