@@ -51,47 +51,47 @@
 * ___강의목표___ : 검색트리(Search Tree) 중 Binary Search Tree(BST)의 개념을 이해합니다.
 * [검색트리(Search Tree)](https://drive.google.com/file/d/1S7d68FXClkE7VlSZPWwZpBJEkXanuQ0u)
 
+### 10/5(목) - 2022 중간고사 소개
+* [2022 mid-term](https://drive.google.com/file/d/1Q7Nl2HbI5GV8XuZHA-77Wpt8JuWJ17fG/)
+* [mid2022_홍길동.ipynb](https://github.com/jjyjung/algorithm/blob/gh-pages/mid2022_%ED%99%8D%EA%B8%B8%EB%8F%99.ipynb)
+* [mid2022_정답.ipynb](https://github.com/jjyjung/algorithm/blob/gh-pages/mid2022_%EC%A0%95%EB%8B%B5.ipynb)
+  
 ### 10/5(목) - BST in Python
 * ___강의목표___ : SelectionSort, BubbleSort, MergeSort 등을 Python으로 함께 구현해봅니다.
 * [Python code - BST](https://github.com/jjyjung/algorithm/blob/gh-pages/ch5_blank.ipynb)
 * **과제** : BST의 Python을 완성하여 제출합니다.(~10/9)
 
-### 10/10(화) - Search Tree
-* ___강의목표___ : 검색트리(Search Tree) 중 Red-Black Tree의 개념을 이해합니다.
+### 10/10(화) - Search Tree [녹화]
+* ___강의목표___ : 검색트리(Search Tree) 중 Red-Black Tree, B-Tree, KD-Tree의 개념을 이해합니다.
 
-### 10/12(목) - Search Tree
-* ___강의목표___ : 검색트리(Search Tree) 중 B-Tree, KD-Tree의 개념을 이해합니다.
-
-### 10/17(화) - DP
+### 10/12(목) - DP
 * ___강의목표___ : Dynamic Programming 문제를 이해하고 예제를 살펴봅니다.
 * [동적계획법(Dynamic Programming: DP)](https://drive.google.com/file/d/1pK75Iu7suvJQ1wKlH7o-EDl595hahN6V)
 
+### 10/17(화) - DP
+* ___강의목표___ : Dynamic Programming 문제를 이해하고 예제를 살펴봅니다.
+* **[과제]** 조약돌 Python 구현하기 
+  - 세 가지 방식(재귀적호출, DP top-down, DP bottom-up)의 코드를 완성하시오.
+  - [ch9_pebble_HW.ipynb](https://github.com/jjyjung/algorithm/blob/gh-pages/ch9_pebble_HW.ipynb) - 10/31(월) 23:59까지
+
 ### 10/19(목) - 중간고사 대비 실습
+* 아래는 Java 코딩 시험 문제로 Python 코딩과 차이가 있을 수 있음. (2020, 2021년은 비대면시험으로 양식이 달라서 미공유)  
 * [2019 mid-term](https://drive.google.com/file/d/17nCTdGnDZDb0jsKkmDcKnAkLCbd9JBod/),
   [2018 mid-term](https://drive.google.com/file/d/1qzKnotT3Ro_zx_qAyrqFkcpjY-MMVnEk/),
   [2017 mid-term](https://drive.google.com/file/d/1fhzgmI_xJKoM5zHsOt01wvt-k61NoKpl/)
 * [mid_정재윤.ipynb (제출예시)](https://github.com/jjyjung/algorithm/blob/gh-pages/mid_%EC%A0%95%EC%9E%AC%EC%9C%A4.ipynb)
 
 ### 10/24(화) - 중간고사[확정]
-* [2022 mid-term](https://drive.google.com/file/d/1Q7Nl2HbI5GV8XuZHA-77Wpt8JuWJ17fG/)
-* [mid_홍길동.ipynb](https://github.com/jjyjung/algorithm/blob/gh-pages/mid_%ED%99%8D%EA%B8%B8%EB%8F%99.ipynb)
 
-### 10/26(목) - DP
-* ___강의목표___ : Dynamic Programming 문제를 이해하고 예제를 살펴봅니다.
-* [동적계획법(Dynamic Programming: DP)](https://drive.google.com/file/d/1pK75Iu7suvJQ1wKlH7o-EDl595hahN6V)
-* **[과제]** 조약돌 Python 구현하기 
-  - 세 가지 방식(재귀적호출, DP top-down, DP bottom-up)의 코드를 완성하시오.
-  - [ch9_pebble_HW.ipynb](https://github.com/jjyjung/algorithm/blob/gh-pages/ch9_pebble_HW.ipynb) - 10/31(월) 23:59까지
+### 10/26(목) - 중간고사 리뷰 및 Term Project 소개
+* [Project Guide](https://docs.google.com/document/d/12NI8htbs0MT_-0iCUgCcyX6qfn1lXaAZ/)
+* [Project 주제 제안(11/1 저녁까지)](https://docs.google.com/spreadsheets/d/1FmYrhNYfi7B_KCybI-dG6pWEItq47uW8CJEoot45C0Q/)
 
 ### 10/31(화) - DP
 * ___강의목표___ : Dynamic Programming 문제를 이해하고 예제를 살펴봅니다.
 * **[과제]** 행렬경로, 행렬곱, LCS의 Python 구현하기 
   - 세 가지 방식(재귀적호출, DP top-down, DP bottom-up)의 코드를 완성하시오.
   - [ch9_others_HW.ipynb](https://github.com/jjyjung/algorithm/blob/gh-pages/ch9_others_HW.ipynb) - 11/2(수) 23:59까지
-
-### 2023 Term Project
-* [Project Guide](https://docs.google.com/document/d/12NI8htbs0MT_-0iCUgCcyX6qfn1lXaAZ/)
-* [Project 주제 제안(11/2 수업전까지)](https://docs.google.com/spreadsheets/d/1FmYrhNYfi7B_KCybI-dG6pWEItq47uW8CJEoot45C0Q/)
 
 ### 11/2(목) - DP [녹화]
 * ___강의목표___ : Dynamic Programming 문제들(조약돌, 행렬경로, 행렬곱, LCS)의 Python 구현에 대하여 설명합니다.
