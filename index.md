@@ -57,9 +57,9 @@
 * [mid2022_정답.ipynb](https://github.com/jjyjung/algorithm/blob/gh-pages/mid2022_%EC%A0%95%EB%8B%B5.ipynb)
   
 ### 10/5(목) - BST in Python
-* ___강의목표___ : SelectionSort, BubbleSort, MergeSort 등을 Python으로 함께 구현해봅니다.
+* ___강의목표___ : Binary Search Tree(BST)를 Python으로 함께 구현해봅니다.
 * [Python code - BST](https://github.com/jjyjung/algorithm/blob/gh-pages/ch5_blank.ipynb)
-* **과제** : BST의 Python을 완성하여 제출합니다.(~10/9)
+* **과제** : BST의 Python 코드를 완성하여 제출합니다.(~10/9)
 
 ### 10/10(화) - Search Tree [녹화]
 * ___강의목표___ : 검색트리(Search Tree) 중 Red-Black Tree, B-Tree, KD-Tree의 개념을 이해합니다.
