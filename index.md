@@ -1,7 +1,7 @@
 
 ## Algorithm
 **사이트에 링크된 모든 문서는 경희대학교 이메일로 로그인이 필요합니다!!**
-* [강의메모](https://docs.google.com/presentation/d/1tNjILRDSQuGJfYeJnILN-g1w-fOp-TLRaee5F0UhYik/)
+* [강의메모](https://docs.google.com/presentation/d/1m7rjrUgsXFlG4INY3eRqaZ_5NVpAK81ovHXTXEVnn6o/)
 * [(교재) 쉽게 배우는 알고리즘](https://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791156643753)
 
 ### 9/5(화) - 강의 소개
