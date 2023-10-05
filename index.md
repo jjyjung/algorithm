@@ -51,15 +51,11 @@
 * ___강의목표___ : 검색트리(Search Tree) 중 Binary Search Tree(BST)의 개념을 이해합니다.
 * [검색트리(Search Tree)](https://drive.google.com/file/d/1S7d68FXClkE7VlSZPWwZpBJEkXanuQ0u)
 
-### 10/5(목) - 2022 중간고사 소개
-* [2022 mid-term](https://drive.google.com/file/d/1Q7Nl2HbI5GV8XuZHA-77Wpt8JuWJ17fG/)
-* [mid2022_홍길동.ipynb](https://github.com/jjyjung/algorithm/blob/gh-pages/mid2022_홍길동.ipynb)
-* [mid2022_정답.ipynb](https://github.com/jjyjung/algorithm/blob/gh-pages/mid2022_정답.ipynb)
-  
 ### 10/5(목) - BST in Python
 * ___강의목표___ : Binary Search Tree(BST)를 Python으로 함께 구현해봅니다.
 * [Python code - BST](https://github.com/jjyjung/algorithm/blob/gh-pages/ch5_blank.ipynb)
-* **과제** : BST의 Python 코드를 완성하여 제출합니다.(~10/9)
+* **과제** : BST의 Python 코드를 완성하여 제출합니다.(~10/9(월))
+* ___2022 중간고사 검토___ : [2022 mid-term](https://drive.google.com/file/d/1Q7Nl2HbI5GV8XuZHA-77Wpt8JuWJ17fG/), [mid2022_홍길동.ipynb](https://github.com/jjyjung/algorithm/blob/gh-pages/mid2022_홍길동.ipynb), [mid2022_정답.ipynb](https://github.com/jjyjung/algorithm/blob/gh-pages/mid2022_정답.ipynb)
 
 ### 10/10(화) - Search Tree [녹화]
 * ___강의목표___ : 검색트리(Search Tree) 중 Red-Black Tree, B-Tree, KD-Tree의 개념을 이해합니다.
