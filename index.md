@@ -58,9 +58,10 @@
 * ___2022 중간고사 검토___ : [2022 mid-term](https://drive.google.com/file/d/1Q7Nl2HbI5GV8XuZHA-77Wpt8JuWJ17fG/), [mid2022_홍길동.ipynb](https://github.com/jjyjung/algorithm/blob/gh-pages/mid2022_홍길동.ipynb), [mid2022_정답.ipynb](https://github.com/jjyjung/algorithm/blob/gh-pages/mid2022_정답.ipynb)
 
 ### 10/10(화) - Search Tree [녹화]
-* ___강의목표___ : 검색트리(Search Tree) 중 Red-Black Tree, B-Tree, KD-Tree의 개념을 이해합니다.
+* ___강의목표___ : 검색트리(Search Tree) 중 Red-Black Tree, B-Tree의 개념을 이해합니다.
 
-### 10/12(목) - 중간고사 대비 실습
+### 10/12(목) - Search Tree 및 Python 연습
+* ___강의목표___ : 검색트리(Search Tree) 중 KD-Tree의 개념을 이해합니다.
 * ___강의목표___ : Jupyter Notebook을 이용하여 지난 중간고사 문제들의 코딩을 연습합니다.
 * 아래는 Java 코딩 시험 문제로 Python 코딩과 차이가 있을 수 있음. (2020, 2021년은 비대면시험으로 양식이 달라서 미공유)  
 * [2019 mid-term](https://drive.google.com/file/d/17nCTdGnDZDb0jsKkmDcKnAkLCbd9JBod/),
@@ -71,12 +72,13 @@
 ### 10/17(화) - DP
 * ___강의목표___ : Dynamic Programming 문제를 이해하고 예제를 살펴봅니다.
 * [동적계획법(Dynamic Programming: DP)](https://drive.google.com/file/d/1pK75Iu7suvJQ1wKlH7o-EDl595hahN6V)
+
+### 10/19(목) - DP
+* ___강의목표___ : Dynamic Programming 문제를 이해하고 예제를 살펴봅니다.
 * **[과제]** 조약돌 Python 구현하기 
   - 세 가지 방식(재귀적호출, DP top-down, DP bottom-up)의 코드를 완성하시오.
-  - [ch9_pebble_HW.ipynb](https://github.com/jjyjung/algorithm/blob/gh-pages/ch9_pebble_HW.ipynb) - 10/31(월) 23:59까지
-
-### 10/19(목) - 중간고사 대비 실습
-
+  - [ch9_pebble_HW.ipynb](https://github.com/jjyjung/algorithm/blob/gh-pages/ch9_pebble_HW.ipynb) - 10/30(월) 23:59까지
+  
 ### 10/24(화) - 중간고사[확정]
 * 일시: 10:30-13:00 (2시간반)
 * 장소: 실습실(공대 244호)
