@@ -94,14 +94,14 @@
   - 세 가지 방식(재귀적호출, DP top-down, DP bottom-up)의 코드를 완성하시오.
   - [ch9_others_HW.ipynb](https://github.com/jjyjung/algorithm/blob/gh-pages/ch9_others_HW.ipynb) - 11/2(수) 23:59까지
 
-### 11/2(목) - DP [녹화]
-* ___강의목표___ : Dynamic Programming 문제들(조약돌, 행렬경로, 행렬곱, LCS)의 Python 구현에 대하여 설명합니다.
+### 11/2(목) - DP
+* ___강의목표___ : Dynamic Programming 문제들(조약돌, 행렬경로, 행렬곱, LCS)을 Python으로 구현합니다.
 
 ### 11/7(화) - Graph
 * ___강의목표___ : Graph 문제를 이해하고 DFS, BSF를 살펴봅니다.
 * [Graph Algorithm](https://drive.google.com/file/d/1yxlp4Lbs8-APuNqTCnzgKICgkS1-pwQx/)
 
-### 11/9(목) - Graph [녹화]
+### 11/9(목) - Graph
 * ___강의목표___ : Graph 구조 및 DFS, BSF 알고리즘을 Python으로 구현해봅니다.
 
 ### 11/14(화) - Graph [녹화]
