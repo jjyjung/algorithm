@@ -70,7 +70,7 @@
 * [mid2019_정재윤.ipynb (제출예시)](https://github.com/jjyjung/algorithm/blob/gh-pages/mid2019_정재윤.ipynb)
 
 ### 10/17(화) - DP
-* 지정석: 중간고사 응시할 좌석에서 앉아서 PC의 Jupyter Notebook를 테스트해봅시다. [좌석확인](https://docs.google.com/spreadsheets/d/1BhALiFR6WwDIGhH-XKuJ9Zfx9EZT1tZl/)
+* 지정석: 중간고사 응시할 좌석에서 앉아서 PC의 Jupyter Notebook를 테스트해봅시다. [__(좌석확인)__](https://docs.google.com/spreadsheets/d/1BhALiFR6WwDIGhH-XKuJ9Zfx9EZT1tZl/)
 * ___강의목표___ : Dynamic Programming 문제를 이해하고 예제를 살펴봅니다.
 * [동적계획법(Dynamic Programming: DP)](https://drive.google.com/file/d/1pK75Iu7suvJQ1wKlH7o-EDl595hahN6V)
 
@@ -83,7 +83,7 @@
 ### 10/24(화) - 중간고사[확정]
 * 일시: 10:30-13:00 (2시간반)
 * 장소: 실습실(공대 244호)
-* 지정석: 배정좌석에서 PC의 Jupyter Notebook으로 응시 [좌석확인](https://docs.google.com/spreadsheets/d/1BhALiFR6WwDIGhH-XKuJ9Zfx9EZT1tZl/)
+* 지정석: 배정좌석에서 PC의 Jupyter Notebook으로 응시 [__(좌석확인)__](https://docs.google.com/spreadsheets/d/1BhALiFR6WwDIGhH-XKuJ9Zfx9EZT1tZl/)
 * 범위: 수업시간에 배운 내용 및 과거 중간고사 문제 유형(수식 계산문제)의 Python 코딩
 
 ### 10/26(목) - 중간고사 리뷰 및 Term Project 소개
