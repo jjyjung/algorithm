@@ -70,7 +70,7 @@
 * [mid2019_정재윤.ipynb (제출예시)](https://github.com/jjyjung/algorithm/blob/gh-pages/mid2019_정재윤.ipynb)
 
 ### 10/17(화) - DP
-* 지정석: 중간고사 응시할 좌석에서 앉아서 PC의 Jupyter Notebook를 테스트해봅시다. [__(좌석확인)__](https://docs.google.com/spreadsheets/d/1BhALiFR6WwDIGhH-XKuJ9Zfx9EZT1tZl/)
+* 지정석: 중간고사 응시할 좌석에서 앉아서 PC의 Jupyter Notebook를 테스트해봅시다. [(좌석확인)](https://docs.google.com/spreadsheets/d/1BhALiFR6WwDIGhH-XKuJ9Zfx9EZT1tZl/)
 * ___강의목표___ : Dynamic Programming 문제를 이해하고 예제를 살펴봅니다.
 * [동적계획법(Dynamic Programming: DP)](https://drive.google.com/file/d/1pK75Iu7suvJQ1wKlH7o-EDl595hahN6V)
 
