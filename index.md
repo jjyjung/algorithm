@@ -81,6 +81,7 @@
   - [ch9_pebble_HW.ipynb](https://github.com/jjyjung/algorithm/blob/gh-pages/ch9_pebble_HW.ipynb) - 10/30(월) 23:59까지
   
 ### 10/24(화) - 중간고사[확정]
+* [mid](https://drive.google.com/drive/u/0/folders/1FW5Afr_PKM2_TFpp8LdD19BCZ79kGQoY)
 * 일시: 10:30-13:00 (2시간반)
 * 장소: 실습실(공대 244호)
 * 지정석: 배정좌석에서 PC의 Jupyter Notebook으로 응시 [__(좌석확인)__](https://docs.google.com/spreadsheets/d/1BhALiFR6WwDIGhH-XKuJ9Zfx9EZT1tZl/)
