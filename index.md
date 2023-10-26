@@ -90,7 +90,7 @@
 ### 10/26(목) - 중간고사 리뷰 및 Term Project 소개
 * [Project Guide](https://docs.google.com/document/d/12NI8htbs0MT_-0iCUgCcyX6qfn1lXaAZ/)
 
-### 10/31(화) - DP
+### 10/31(화) - DP[녹화]
 * ___강의목표___ : Dynamic Programming 문제를 이해하고 예제를 살펴봅니다.
 * **[과제]** 행렬경로, 행렬곱, LCS의 Python 구현하기 
   - 세 가지 방식(재귀적호출, DP top-down, DP bottom-up)의 코드를 완성하시오.
