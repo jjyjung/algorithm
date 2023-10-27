@@ -106,13 +106,13 @@
 ### 11/9(목) - Graph
 * ___강의목표___ : Graph 구조 및 DFS, BSF 알고리즘을 Python으로 구현해봅니다.
 
-### 11/14(화) - Graph [녹화]
+### 11/14(화) - Graph
 * ___강의목표___ : MST(최소신장트리) 문제와 Prim 및 Kruskal 알고리즘을 이해하고 Python으로 구현해봅니다.
 
 ### 11/16(목) - Graph
 * ___강의목표___ : Graph 문제를 이해하고 Python으로 구현해봅니다.
 
-### 11/21(화) - Graph
+### 11/21(화) - Graph [녹화]
 * ___강의목표___ : 최단경로 문제를 이해하고 Dijkstra, Bellman-Ford, Floyd-Warshall 알고리즘을 살펴봅니다.
 
 ### 11/23(목) - SST
