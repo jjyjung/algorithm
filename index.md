@@ -89,6 +89,8 @@
 
 ### 10/26(목) - 중간고사 리뷰 및 Term Project 소개
 * [Project Guide](https://docs.google.com/document/d/12NI8htbs0MT_-0iCUgCcyX6qfn1lXaAZ/)
+* [Project 팀 및 주제 등록](https://docs.google.com/spreadsheets/d/136zvC34MgTt-boRFKYj2YlaRDSm2NzxSUhPVJVz_vsM/)
+* **2인1조 팀 등록: 11/2(목)까지, 주제 등록: 11/6(월)까지**
 
 ### 10/31(화) - DP[녹화]
 * ___강의목표___ : Dynamic Programming 문제를 이해하고 예제를 살펴봅니다.
