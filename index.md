@@ -96,58 +96,58 @@
 * ___강의목표___ : Dynamic Programming 문제를 이해하고 예제를 살펴봅니다.
 * **[과제]** 행렬경로, 행렬곱, LCS의 Python 구현하기 
   - 세 가지 방식(재귀적호출, DP top-down, DP bottom-up)의 코드를 완성하시오.
-  - [ch9_others_HW.ipynb](https://github.com/jjyjung/algorithm/blob/gh-pages/ch9_others_HW.ipynb) - 11/2(수) 23:59까지
+  - [ch9_others_HW.ipynb](https://github.com/jjyjung/algorithm/blob/gh-pages/ch9_others_HW.ipynb) - 11/6(월) 23:59까지
 
-### 11/2(목) - DP
-* ___강의목표___ : Dynamic Programming 문제들(조약돌, 행렬경로, 행렬곱, LCS)을 Python으로 구현합니다.
-
-### 11/7(화) - Graph
+### 11/2(목) - Graph
 * ___강의목표___ : Graph 문제를 이해하고 DFS, BSF를 살펴봅니다.
 * [Graph Algorithm](https://drive.google.com/file/d/1yxlp4Lbs8-APuNqTCnzgKICgkS1-pwQx/)
 
-### 11/9(목) - Graph
+### 11/7(화) - Graph
 * ___강의목표___ : Graph 구조 및 DFS, BSF 알고리즘을 Python으로 구현해봅니다.
 
-### 11/14(화) - Graph
+### 11/9(목) - Graph
 * ___강의목표___ : MST(최소신장트리) 문제와 Prim 및 Kruskal 알고리즘을 이해하고 Python으로 구현해봅니다.
 
-### 11/16(목) - Graph
+### 11/14(화) - Graph
 * ___강의목표___ : Graph 문제를 이해하고 Python으로 구현해봅니다.
 
-### 11/21(화) - Graph [녹화]
+### 11/16(목) - Graph
 * ___강의목표___ : 최단경로 문제를 이해하고 Dijkstra, Bellman-Ford, Floyd-Warshall 알고리즘을 살펴봅니다.
 
-### 11/23(목) - SST
+### 11/21(화) - SST
 * ___강의목표___ : State-Space Tree (SST) 문제를 이해하고 예제를 살펴봅니다.
 * [State-Space Tree (SST)](https://drive.google.com/file/d/1e84ohYLcNH58W-BbWaynLIQTCRNUdc-5/)
 
-### 11/28(화) - SST
+### 11/23(목) - SST
 * ___강의목표___ : Hill Climbing, Best-First Search, Beam-Search 기법을 이해하고 예제를 살펴봅니다.
 * [Search(강의설명)](https://drive.google.com/file/d/1t3D4LLnU4x2JKMHeieXAVRDYZgDTicbr/)
 
-### 11/30(목) - SST
+### 11/28(화) - SST
 * ___강의목표___ : Branch-and-Bound(B&B), A* Algorithm 기법을 이해하고 예제를 살펴봅니다.
 * [8-Puzzle의 Heuristics 적용 예시](https://docs.google.com/spreadsheets/d/1oM2ybWiHj39MHBLy6mKGS_tDVe1OtoZc/)
 * [maze python code](https://github.com/jjyjung/algorithm/blob/gh-pages/ch14_blank.ipynb)
 
-### 12/5(화) - SST [녹화]
+### 11/30(목) - SST
 * ___강의목표___ : SST의 Python 코드를 연습합니다.
 
-### 12/7(목) - 기말고사 대비 실습
+### 12/5(화) - 학기과제 YouTube 발표 및 질의응답
+* ___발표일자___ : [Spreadsheet 참조]
+
+### 12/7(목) - 학기과제 YouTube 발표 및 질의응답
+* ___발표일자___ : [Spreadsheet 참조]
+
+### 12/12(화) - 기말고사 대비 실습
 * ___강의목표___ : SST의 Python 코드를 연습합니다.
 * [2019 final](https://drive.google.com/file/d/1l_ZsBfozC9Z1jHnoSezPEc3dSX0Jtgc1/), 
 [2018 final](https://drive.google.com/file/d/1z3DBHWFZ5pOhEUBMA-ooRic9_kJsitIg/), 
 [2017 final](https://drive.google.com/file/d/1x6oFcEDOfH_ndAuUtCjP6Kta_2ol1oMi/)
 * [Zoom https://khu-ac.zoom.us/j/87581867887](https://khu-ac.zoom.us/j/87581867887)
 
-### 12/12(화) - 기말고사
-* 일시: 10:30-12:00
+### 12/14(목) - 기말고사
+* 일시: 10:30-13:00
 * 장소: 실습실(공대 244호)
-* 범위: 중간고사 이후에 배운 내용 (단, 2023년 중간고사 문제 중에서 일부 문제 재제출 예정)
-* [final_홍길동.ipynb](https://github.com/jjyjung/algorithm/blob/gh-pages/final_%ED%99%8D%EA%B8%B8%EB%8F%99.ipynb)
-
-### 12/14(목) - 학기과제 YouTube 발표 및 질의응답
-* ___발표일자___ : [Spreadsheet 참조](https://docs.google.com/spreadsheets/d/1FmYrhNYfi7B_KCybI-dG6pWEItq47uW8CJEoot45C0Q/)
+* 범위: 중간고사 이후에 배운 내용. 학기과제에서도 일부 출제 (단, 2023년 중간고사 문제 중에서 일부 문제 재제출 예정)
+* [final_홍길동.ipynb]
 
 ### 2023 Term Project
 * [Project Guide](https://docs.google.com/document/d/12NI8htbs0MT_-0iCUgCcyX6qfn1lXaAZ/)
