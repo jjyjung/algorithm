@@ -96,7 +96,7 @@
 * ___강의목표___ : 행렬경로, 행렬곱, LCS의 Dynamic Programming를 Python으로 구현해봅니다.
 * [ch9_others_HW.ipynb](https://github.com/jjyjung/algorithm/blob/gh-pages/ch9_others_HW.ipynb) - 11/6(월) 23:59까지
 * **[과제/30점]** 행렬경로, 행렬곱, LCS의 **Top-Down** 방식으로 DP를 Python 구현하기 
-* [ch9_TopDownDP_HW.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/ch9_TopDownDP_HW.ipynb) - 11/6(월) 23:59까지
+* [ch9_TopDownDP_HW.ipynb](https://github.com/jjyjung/algorithm/blob/gh-pages/ch9_TopDownDP_HW.ipynb) - 11/6(월) 23:59까지
 
 ### 11/2(목) - Graph
 * ___강의목표___ : Graph 문제를 이해하고 DFS, BSF를 살펴봅니다.
