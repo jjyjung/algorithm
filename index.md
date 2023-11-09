@@ -98,21 +98,21 @@
 * **[과제/30점]** 행렬경로, 행렬곱, LCS의 **Top-Down** 방식으로 DP를 Python 구현하기 
 * [ch9_TopDownDP_HW.ipynb](https://github.com/jjyjung/algorithm/blob/gh-pages/ch9_TopDownDP_HW.ipynb) - 11/6(월) 23:59까지
 
-### 11/2(목) - Graph
+### 11/2(목) - DP
+* ___강의목표___ : 행렬경로, 행렬곱, LCS의 Dynamic Programming를 Python으로 구현해봅니다.
+
+### 11/7(화) - Graph
 * ___강의목표___ : Graph 문제를 이해하고 DFS, BSF를 살펴봅니다.
 * [Graph Algorithm](https://drive.google.com/file/d/1yxlp4Lbs8-APuNqTCnzgKICgkS1-pwQx/)
 
-### 11/7(화) - Graph
+### 11/9(목) - Graph
 * ___강의목표___ : Graph 구조 및 DFS, BSF 알고리즘을 Python으로 구현해봅니다.
 
-### 11/9(목) - Graph
+### 11/14(화) - Graph
 * ___강의목표___ : MST(최소신장트리) 문제와 Prim 및 Kruskal 알고리즘을 이해하고 Python으로 구현해봅니다.
 
-### 11/14(화) - Graph
-* ___강의목표___ : Graph 문제를 이해하고 Python으로 구현해봅니다.
-
-### 11/16(목) - Graph
-* ___강의목표___ : 최단경로 문제를 이해하고 Dijkstra, Bellman-Ford, Floyd-Warshall 알고리즘을 살펴봅니다.
+### 11/16(목) - Graph[녹화]
+* ___강의목표___ : Dijkstra, Bellman-Ford, Floyd-Warshall 알고리즘을 Python으로 구현해봅니다.
 
 ### 11/21(화) - SST
 * ___강의목표___ : State-Space Tree (SST) 문제를 이해하고 예제를 살펴봅니다.
