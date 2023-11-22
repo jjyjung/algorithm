@@ -127,7 +127,7 @@
 * [8-Puzzle의 Heuristics 적용 예시](https://docs.google.com/spreadsheets/d/1oM2ybWiHj39MHBLy6mKGS_tDVe1OtoZc/)
 * [maze python code](https://github.com/jjyjung/algorithm/blob/gh-pages/ch14_blank.ipynb)
 
-### 11/30(목) - SST
+### 11/30(목) - SST[녹화]
 * ___강의목표___ : SST의 Python 코드를 연습합니다.
 
 ### 12/5(화) - 학기과제 YouTube 발표 및 질의응답
