@@ -114,15 +114,16 @@
 ### 11/16(목) - Graph[녹화]
 * ___강의목표___ : Dijkstra, Bellman-Ford, Floyd-Warshall 알고리즘을 Python으로 구현해봅니다.
 
-### 11/21(화) - SST
-* ___강의목표___ : State-Space Tree (SST) 문제를 이해하고 예제를 살펴봅니다.
-* [State-Space Tree (SST)](https://drive.google.com/file/d/1e84ohYLcNH58W-BbWaynLIQTCRNUdc-5/)
+### 11/21(화) - Graph
+* ___강의목표___ : Dijkstra, Bellman-Ford, Floyd-Warshall 알고리즘을 Python으로 구현해봅니다.
 
 ### 11/23(목) - SST
 * ___강의목표___ : Hill Climbing, Best-First Search, Beam-Search 기법을 이해하고 예제를 살펴봅니다.
 * [Search(강의설명)](https://drive.google.com/file/d/1t3D4LLnU4x2JKMHeieXAVRDYZgDTicbr/)
 
 ### 11/28(화) - SST
+* ___강의목표___ : State-Space Tree (SST) 문제를 이해하고 예제를 살펴봅니다.
+* [State-Space Tree (SST)](https://drive.google.com/file/d/1e84ohYLcNH58W-BbWaynLIQTCRNUdc-5/)
 * ___강의목표___ : Branch-and-Bound(B&B), A* Algorithm 기법을 이해하고 예제를 살펴봅니다.
 * [8-Puzzle의 Heuristics 적용 예시](https://docs.google.com/spreadsheets/d/1oM2ybWiHj39MHBLy6mKGS_tDVe1OtoZc/)
 * [maze python code](https://github.com/jjyjung/algorithm/blob/gh-pages/ch14_blank.ipynb)
