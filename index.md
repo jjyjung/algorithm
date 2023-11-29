@@ -114,35 +114,33 @@
 ### 11/16(목) - Graph[녹화]
 * ___강의목표___ : Dijkstra, Bellman-Ford, Floyd-Warshall 알고리즘을 Python으로 구현해봅니다.
 
-### 11/21(화) - Graph
-* ___강의목표___ : Dijkstra, Bellman-Ford, Floyd-Warshall 알고리즘을 Python으로 구현해봅니다.
+### 11/21(화) - Search
+* ___강의목표___ : Hill Climbing, Best-First Search, Beam-Search 등 Search 기법을 이해하고 예제를 살펴봅니다.
+* [Search 개요](https://drive.google.com/file/d/1t3D4LLnU4x2JKMHeieXAVRDYZgDTicbr/)
+* [maze python code](https://github.com/jjyjung/algorithm/blob/gh-pages/ch14_blank.ipynb)
 
 ### 11/23(목) - SST
 * ___강의목표___ : State-Space Tree (SST) 문제를 이해하고 예제를 살펴봅니다.
 * [State-Space Tree (SST)](https://drive.google.com/file/d/1e84ohYLcNH58W-BbWaynLIQTCRNUdc-5/)
-* ___강의목표___ : Hill Climbing, Best-First Search, Beam-Search 기법을 이해하고 예제를 살펴봅니다.
-* [Search(강의설명)](https://drive.google.com/file/d/1t3D4LLnU4x2JKMHeieXAVRDYZgDTicbr/)
-
+  
 ### 11/28(화) - SST
 * ___강의목표___ : Branch-and-Bound(B&B), A* Algorithm 기법을 이해하고 예제를 살펴봅니다.
 * [8-Puzzle의 Heuristics 적용 예시](https://docs.google.com/spreadsheets/d/1oM2ybWiHj39MHBLy6mKGS_tDVe1OtoZc/)
-* [maze python code](https://github.com/jjyjung/algorithm/blob/gh-pages/ch14_blank.ipynb)
 
 ### 11/30(목) - SST[녹화]
-* ___강의목표___ : SST의 Python 코드를 연습합니다.
+* ___강의목표___ : Coloring, A* Algorithm 등 SST의 Python 코드를 연습합니다.
 
-### 12/5(화) - 학기과제 YouTube 발표 및 질의응답
-* ___발표일자___ : [Spreadsheet 참조]
-
-### 12/7(목) - 학기과제 YouTube 발표 및 질의응답
-* ___발표일자___ : [Spreadsheet 참조]
-
-### 12/12(화) - 기말고사 대비 실습
-* ___강의목표___ : SST의 Python 코드를 연습합니다.
+### 12/5(화) - 기말고사 대비 실습
+* ___강의목표___ : 지난 기말고사 문제들의 Python 코드를 연습합니다.
 * [2019 final](https://drive.google.com/file/d/1l_ZsBfozC9Z1jHnoSezPEc3dSX0Jtgc1/), 
 [2018 final](https://drive.google.com/file/d/1z3DBHWFZ5pOhEUBMA-ooRic9_kJsitIg/), 
 [2017 final](https://drive.google.com/file/d/1x6oFcEDOfH_ndAuUtCjP6Kta_2ol1oMi/)
-* [Zoom https://khu-ac.zoom.us/j/87581867887](https://khu-ac.zoom.us/j/87581867887)
+
+### 12/7(목) - 학기과제 YouTube 발표 및 질의응답 => 기말시험에 일부 출제
+* ___발표일자___ : [Spreadsheet 참조]
+
+### 12/12(화) - 학기과제 YouTube 발표 및 질의응답 => 기말시험에 일부 출제
+* ___발표일자___ : [Spreadsheet 참조]
 
 ### 12/14(목) - 기말고사
 * 일시: 10:30-13:00
