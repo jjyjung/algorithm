@@ -129,6 +129,7 @@
 
 ### 11/30(목) - SST[녹화]
 * ___강의목표___ : Coloring, A* Algorithm 등 SST의 Python 코드를 연습합니다.
+* [ch14_blank.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/ch14_blank.ipynb) - 12/4(월) 23:59까지 동영상을 참고하여 완성하여 제출하세요.
 
 ### 12/5(화) - 기말고사 대비 실습
 * ___강의목표___ : 지난 기말고사 문제들의 Python 코드를 연습합니다.
