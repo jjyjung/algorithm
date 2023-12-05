@@ -88,9 +88,6 @@
 * 범위: 수업시간에 배운 내용 및 과거 중간고사 문제 유형(수식 계산문제)의 Python 코딩
 
 ### 10/26(목) - 중간고사 리뷰 및 Term Project 소개
-* [Project Guide](https://docs.google.com/document/d/12NI8htbs0MT_-0iCUgCcyX6qfn1lXaAZ/)
-* [Project 팀 및 주제 등록](https://docs.google.com/spreadsheets/d/136zvC34MgTt-boRFKYj2YlaRDSm2NzxSUhPVJVz_vsM/)
-* **2인1조 팀 등록: 11/2(목)까지, 주제 등록: 11/6(월)까지**
 
 ### 10/31(화) - DP[녹화]
 * ___강의목표___ : 행렬경로, 행렬곱, LCS의 Dynamic Programming를 Python으로 구현해봅니다.
@@ -153,7 +150,8 @@
 
 ### 2023 Term Project
 * [Project Guide](https://docs.google.com/document/d/12NI8htbs0MT_-0iCUgCcyX6qfn1lXaAZ/)
-* [Project 주제 제안(11/2 수업전까지)](https://docs.google.com/spreadsheets/d/1FmYrhNYfi7B_KCybI-dG6pWEItq47uW8CJEoot45C0Q/)
+* [Project 팀 및 주제 등록](https://docs.google.com/spreadsheets/d/136zvC34MgTt-boRFKYj2YlaRDSm2NzxSUhPVJVz_vsM/)
+* **2인1조 팀 등록: 11/2(목)까지, 주제 등록: 11/6(월)까지**
 
 ### Supplementary Materials
 * [w3schools.com - Python](https://www.w3schools.com/python/)
