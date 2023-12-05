@@ -134,7 +134,7 @@
 ### 12/5(화) - 기말고사 대비 실습
 * ___강의목표___ : 지난 기말고사 문제들의 Python 코드를 연습합니다.
 * [___중간고사 성적확인___](http://163.180.125.245/algorithm/), (비밀번호는 e-campus의 '4장 정렬 구현 완성' 과제에 답변한 두 자리 숫자입니다.) 
-* [2022 final](https://drive.google.com/file/d/1Q7Nl2HbI5GV8XuZHA-77Wpt8JuWJ17fG/), 
+* [2022 final](https://drive.google.com/file/d/1ZAQtZK0QkWf9__rCVV8WZRUyrjm5SK2J/), 
 [2019 final](https://drive.google.com/file/d/1l_ZsBfozC9Z1jHnoSezPEc3dSX0Jtgc1/), 
 [2018 final](https://drive.google.com/file/d/1z3DBHWFZ5pOhEUBMA-ooRic9_kJsitIg/), 
 [2017 final](https://drive.google.com/file/d/1x6oFcEDOfH_ndAuUtCjP6Kta_2ol1oMi/)
